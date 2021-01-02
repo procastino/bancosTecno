@@ -1,0 +1,25 @@
+question,image,choice1,choice2,choice3,choice4,bloque
+"A palabra electricidade vén do grego elektron, que significa...",images/foo.png,ámbar,electricidade,imán,lóstrego,electricidade01
+Cando dicimos que se dá comezo ao uso da electricidade de xeito comercial?,,"A finais do século XIX, coa lámpada eléctrica",Na época dos antiguos gregos,"Coa revolución científica, a finais do século XVIII","A mediados do século XX, coa invención do transistor",electricidade01
+"A experimentación científica coa electricidade comezou, aproximadamente...",,A finais do século XVIII,A finais do século XIX,A principios do século XX,A finais do século XVII,electricidade01
+A implantación e desenvolvemento comercial da electricidade comezou coa lámpada eléctrica...,,A finais do século XIX,A comezos do século XX,A mediados do século XX,A comezos do século XIX,electricidade01
+"A era da información e a comunicación tamén se desenvolve sobre a electricidade, e o compoñente fundamental sobre o que se asenta é...",,O transistor,A lámpada eléctrica,O electroimán,O relé,electricidade01
+Cando está cargado un corpo?,,cando ten máis cargas dun signo que doutro,cando ten igual número de cargas positivas e negativas,cando ten máis cargas positivas que negativas,cando ten máis cargas negativas que positivas,electricidade01
+Cal é a unidade de carga?,,O Coulomb,O Vatio,O Joule,O Amperio,electricidade01
+Que partículas do átomo están cargadas?,,"os electróns, negativamente, e os protóns, positivamente","os electróns, negativamente, e os neutróns, positivamente","os protóns, positivamente, e os neutróns, negativamente","os electróns, positivamente, e os protóns, negativamente",electricidade01
+Que é unha corrente eléctrica?,,Un fluxo de electróns a través dun medio,Un fluxo de protóns a través dun medio,Un conxunto de electróns en movemento,Un desprazamento de calquera tipo de partículas eléctricas,electricidade01
+Cal é un material condutor,,O aluminio,A auga destilada,O aire,O plástico,electricidade01
+Un material illante presentará,,Unha resistencia moi alta,Unha resistencia moi baixa,Unha conductividade moi baixa,Unha enerxía específica moi alta,electricidade01
+Que fenómeno dicimos que é outra expresión da electricidade?,,O magnetismo,A calor,A luz,O movemento,electricidade01
+Os efectos da corrente eléctrica que nomeamos son:,,"Luz, calor, movemento e son.","Electromagnetismo, luz, calor e movemento.","Electroluminiscencia, calor, movemento e son.","Enerxía, movemento, calor e son",electricidade01
+Cal non se corresponde coa corrente continua?,,adoitamos manexar grandes voltaxes con ela,Sempre ten o mesmo sentido,é a que proporcionan as baterías e pilas,podemos obtela de adaptadores de rede,electricidade01
+Que aparato funciona con Corrente Alterna?,,Lavadora,Ordenador,Reloxio dixital,Teléfono móbil,electricidade01
+Que nos indica a Voltaxe dun xerador?,,A enerxía que nos pode proporcionar cada unidade de carga,A oposición que este exercerá fronte ao corrente que o atravesa,Que cantidade de electróns nos dará nunha unidade de tempo.,A enerxía que nos proporcionará ese xerador por unidade de tempo,electricidade01
+Que é a Intensidade dunha corrente?,,A cantidade de electróns que pasan por un punto nun tempo determinado,A diferencia de enerxía electromotriz entre dúas partículas con carga oposta,A oposición que presenta un material a ser atravesado polos electróns,A enerxía producida polos electróns ao atravesar un compoñente determinado,electricidade01
+Cal destas é unha expresión CORRECTA da Lei de Ohm?,,R=V/I,R=I/V,R=V·I,R.V=I,electricidade01
+Cal das seguintes sería unha expresión incorrecta da lei de Ohm?,,R=I.V,I=V/R,I.R=V,R=V/I,electricidade01
+Conecto unha resistencia de 100 Ω nun circuíto cunha pila de 9 V. Que intensidade circula?,,"0,09 A",900 A,"0,9 A","11,11 A",electricidade01
+Comprobo que a intensidade que circula por un circuíto é de 2 A e vexo que está alimentado a 6V. Que resistencia hai no circuíto?,,3Ω,12Ω,"0,33Ω",2/6Ω,electricidade01
+"Nun circuíto cunha resistencia de 100 Ω comprobo que a intensidade é de 0,5 A. Cal é a voltaxe?",,50V,200V,5V,"0,005V",electricidade01
+Que potencia eléctrica xerará un compoñente que funcione a 3 V e 2 A?,,6W,5W,"1,5W","0,67W",electricidade01
+"Que calor nos dará un circuíto durante 10 segundos, se a voltaxe é de 9 V e a intensidade de 2A?",,180 J,"1,8 J",45 J,"4,5 J",electricidade01
