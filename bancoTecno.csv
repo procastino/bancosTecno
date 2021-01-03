@@ -60,3 +60,25 @@ Que potencia eléctrica xerará un compoñente que funcione a 3 V e 2 A?,,6W,5W,
 Un circuíto que consume unha potencia de 10 W funciona durante 5 segundos. Que enerxía consumiu nese tempo?,,50 J,2 J,10 J,"0,5 J",electricidade
 Cal é a carga dun átomo no seu estado natural?,, neutra,positiva,negativa,depende do átomo,electricidade
 Cal é a unidade elemental de Voltaxe?,,O Voltio (V),O Ohmnio (Ω),O Amperio (A),O Vatio (W),electricidade
+Cal delas NON corresponde a un circuíto eléctrico?,,Se produce sempre que hai unha corrente eléctrica.,Sempre ten que haber un elemento que forneza enerxía eléctrica.,Sempre produce calor.,Sempre haberá algunha transformación de enerxía.,circuítos
+Cales son os tipos de elementos que podo atopar nun circuíto eléctrico?,,"Xeradores, condutores, receptores e elementos de control","Xeradores, condutores, aparatos eléctricos e elementos de control","Xeradores, cables, interruptores e conmutadores","Pilas, cables, resistencias e interruptores",circuítos
+Como están conectadas as resistencias da figura?,images/3ResisSerie.png,Serie,Liña,Paralelo,Mixto,circuítos
+"Se xuntamos dúas pilas de 1,5V deste xeito... cal será a voltaxe total?",images/duasPilasSerie.png,3V,"1,5V","0,75V","1,33V",circuítos
+Se xuntamos dúas resistencias de 4Ω deste xeito... cal será a súa resistencia equivalente?,images/2ResisParalelo.png,2Ω,4Ω,8Ω,3Ω,circuítos
+Como se chaman os elementos dun circuíto que fornecen os electróns?,,Xeradores,Receptores,Condutores,Elementos de control,circuítos
+Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?,,Receptores,Xeradores,Transformadores,Elementos de control,circuítos
+Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?,,Condutores,Xeradores,Elementos de control,Receptores,circuítos
+Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?,,Elementos de control,Xeradores,Condutores,Receptores,circuítos
+Cal non é un xerador?,,Motor,Pila,Batería,Toma de rede,circuítos
+Cal consideramos un condutor?,,Cable,Interruptor,Pulsador,Aluminio,circuítos
+Cal non sería un receptor?,,Pila,Motor,Lámpada,Resistencia,circuítos
+Cal non é un elemento de control?,,Cable,Interruptor,Pulsador,Conmutador,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/pilaSimbolo.png,Batería,Xerador de corrente alterna,Motor,Toma de terra,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/xeradorAC.png,Xerador de corrente alterna,Batería ou pila,Lámpada,Motor eléctrico,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/pulsadorSimbolo.png,pulsador,interruptor,conmutador,pila,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/interruptorSimbolo.png,interruptor,conmutador,pulsador,botón,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/conmutadorSimbolo.png,conmutador,interruptor,pulsador,fusible,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/resistenciaSimbolo.png,resistencia,pila,lámpada,interruptor,circuítos
+A que compoñente se corresponde o símbolo da figura?,images/resistenciaSimbolo2.png,resistencia,lámpada,pila,interruptor,circuítos
+A que compoñente se corresponde o símbolo da figura?,,,,,,
+A que compoñente se corresponde o símbolo da figura?,,,,,,
