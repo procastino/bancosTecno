@@ -1,0 +1,48 @@
+function createQuiz() {
+  var sheet = SpreadsheetApp.getActiveSheet();
+  var data = sheet.getDataRange().getValues();
+  var form = FormApp.openById('1qkacoIPr3GroKGieX67UkU6c5aJzO4a0PjuvVeGmciQ');
+  form.setIsQuiz(true);
+  
+  for (var i = 1; i < data.length; i++) {
+    if (data[i][1]!=''){
+      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/procastino.github.io/master/'+data[i][1]);
+      form.addImageItem()
+        .setTitle('Imaxe da pregunta de abaixo')
+        .setImage(img);
+    }
+   
+    var item = form.addMultipleChoiceItem();
+    var numbers = [2,3,4,5];
+    shuffle(numbers);
+    item.setTitle(data[i][0])
+      .setChoices([
+        item.createChoice(data[i][numbers[0]],numbers[0]==2),
+        item.createChoice(data[i][numbers[1]],numbers[1]==2),
+        item.createChoice(data[i][numbers[2]],numbers[2]==2),
+        item.createChoice(data[i][numbers[3]],numbers[3]==2)
+     ])
+    .showOtherOption(false);
+
+   
+  }
+}
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  //return array;
+}
+
