@@ -22,7 +22,8 @@ function createQuiz() {
         item.createChoice(data[i][numbers[2]],numbers[2]==2),
         item.createChoice(data[i][numbers[3]],numbers[3]==2)
      ])
-    .showOtherOption(false);
+	.setPoints(1)    
+	.showOtherOption(false);
 
    
   }
