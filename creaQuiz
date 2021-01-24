@@ -1,12 +1,13 @@
 function createQuiz() {
   var sheet = SpreadsheetApp.getActiveSheet();
   var data = sheet.getDataRange().getValues();
-  var form = FormApp.openById('1qkacoIPr3GroKGieX67UkU6c5aJzO4a0PjuvVeGmciQ');
+  var form = FormApp.openById('133NE21dD3IENq5WT2jRrXNM4P_u_zp8sau2qZT5D_p8');
   form.setIsQuiz(true);
+  
   
   for (var i = 1; i < data.length; i++) {
     if (data[i][1]!=''){
-      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/procastino.github.io/master/'+data[i][1]);
+      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+data[i][1]);
       form.addImageItem()
         .setTitle('Imaxe da pregunta de abaixo')
         .setImage(img);
@@ -21,12 +22,13 @@ function createQuiz() {
         item.createChoice(data[i][numbers[1]],numbers[1]==2),
         item.createChoice(data[i][numbers[2]],numbers[2]==2),
         item.createChoice(data[i][numbers[3]],numbers[3]==2)
-     ])
-	.setPoints(1)    
-	.showOtherOption(false);
+      ])
+    .setPoints(1)
+    .showOtherOption(false);
 
    
   }
+  
 }
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
