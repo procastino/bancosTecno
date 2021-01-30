@@ -17,7 +17,7 @@ function createQuiz() {
   for (var i = 1; i < data.length; i++) {
     if (data[i][1]!=''){
 //This is set to my personal repo. If you want to use another, you must write the complete URL of the image on the 
-//"image" column and delete 'https:// raw...' and only leave 'data[i][1] inside the brackets
+//"image" column and delete 'https:// raw...' and only leave 'data[i][1]' inside the brackets
       var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+data[i][1]);
       form.addImageItem()
 //I worked around the inability to set an image on the question setting a previous image item
