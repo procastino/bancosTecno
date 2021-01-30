@@ -1,14 +1,27 @@
+/*this function will create multiple choice questions from a Google Spreadsheet
+onto a previously created Google Form.
+Your Google Spreadsheet must have "question image choice1 choice2 choice3 choice4 bloque" columns, being
+choice1 the correct answer.
+You have to create a form on Google and add any question you need that is not multiple
+choice with only one correct answer*/
+
 function createQuiz() {
   var sheet = SpreadsheetApp.getActiveSheet();
   var data = sheet.getDataRange().getValues();
+//Replace the Id with the one of your Google Form (characters between quotation marks)
   var form = FormApp.openById('133NE21dD3IENq5WT2jRrXNM4P_u_zp8sau2qZT5D_p8');
+//this line will set the form to be a quiz, remember, if you want to set it to autocorrect, you must set it manually on the form (at this moment)
   form.setIsQuiz(true);
   
-  
+//this function will sweep across the rows creating the questions  
   for (var i = 1; i < data.length; i++) {
     if (data[i][1]!=''){
+//This is set to my personal repo. If you want to use another, you must write the complete URL of the image on the 
+//"image" column and delete 'https:// raw...' and only leave 'data[i][1] inside the brackets
       var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+data[i][1]);
       form.addImageItem()
+//I worked around the inability to set an image on the question setting a previous image item
+//with a title that refers to the next question. Replace text on the uncommon case that you don't use Galician
         .setTitle('Imaxe da pregunta de abaixo')
         .setImage(img);
     }
@@ -25,11 +38,11 @@ function createQuiz() {
       ])
     .setPoints(1)
     .showOtherOption(false);
-
-   
+//remember, if you want to set it to autocorrect, you must set it manually on the form (at this moment)
   }
-  
 }
+
+//this function shuffles the choices so they appear in random order each time the form is created
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
 
