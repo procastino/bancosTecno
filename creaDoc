@@ -1,0 +1,76 @@
+function createNewGoogleDocs() {
+  //This value should be the id of your document template that we created in the last step
+  const googleDocTemplate = DriveApp.getFileById('1BeFNSRn2UKu0pWZcxXZNVkZ2uCujLTNc0UXYMAGcT24');
+  
+  //This value should be the id of the folder where you want your completed documents stored
+  const destinationFolder = DriveApp.getFolderById('1el8G0dZbXQY2YWRvaJwDWMYZ96lvfG3S')
+  //Here we store the sheet as a variable
+  const sheet = SpreadsheetApp
+    .getActiveSpreadsheet()
+    .getSheetByName('Data')
+  
+  //Now we get all of the values as a 2D array
+  const rows = sheet.getDataRange().getValues();
+  
+  //Start processing each spreadsheet row
+  rows.forEach(function(row, index){
+    //Here we check if this row is the headers, if so we skip it
+    if (index === 0) return;
+    //Precarious way to make random order for choices
+    var numbers = [2,3,4,5];
+    shuffle(numbers);
+    //Once we have the copy, we then open it using the DocumentApp
+    const doc = DocumentApp.openById('1BeFNSRn2UKu0pWZcxXZNVkZ2uCujLTNc0UXYMAGcT24')
+    //All of the content lives in the body, so we get that for editing
+    const body = doc.getBody();
+    
+    var question = body.appendListItem('{{question}}');
+    if (row[1]!=''){
+      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+row[1]);
+      body.appendImage(img);
+    }
+    var choice1 = body.appendListItem('{{choice1}}');
+    choice1.setNestingLevel(1);
+    var choice2 = body.appendListItem('{{choice2}}');
+    choice2.setNestingLevel(1);
+    var choice3 = body.appendListItem('{{choice3}}');
+    choice3.setNestingLevel(1);
+    var choice4 = body.appendListItem('{{choice4}}');
+    choice4.setNestingLevel(1);
+        
+    //In these lines, we replace our replacement tokens with values from our spreadsheet row
+    body.replaceText('{{question}}', row[0]);
+    body.replaceText('{{choice1}}', row[numbers[0]]);
+    body.replaceText('{{choice2}}', row[numbers[1]]);
+    body.replaceText('{{choice3}}', row[numbers[2]]);
+    body.replaceText('{{choice4}}', row[numbers[3]]);
+    
+    //We make our changes permanent by saving and closing the document
+    doc.saveAndClose();
+          
+  })
+}
+  //this function shuffles an array for the choices to appear randomly
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+}
+function resizeImg(img, targetHeight) {
+    var height = img.getHeight();
+    var width = img.getWidth();
+    var factor = height / targetHeight;
+    img.setHeight(height / factor);
+    img.setWidth(width / factor);
+};

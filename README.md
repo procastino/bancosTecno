@@ -9,4 +9,6 @@ Un listado de preguntas tipo test de múltipla escolla, cunha soa resposta corre
 ### Para que?
 Ter un gran repositorio de preguntas nun formato doado de manipular e transformar, que logo poida ser adaptado a distintas plataformas, servizos e tipos de documentos.
 ### creaQuiz
-É un código de Google Apps Script para crear formularios de Google a partir das preguntas do banco. Rematei a primeira versión funcional ás 3:00 AM, así que tentarei explicalo mellor noutro commit, pero aí queda, de momento...
+É un código de Google Apps Script para crear formularios de Google a partir das preguntas do banco. Neste [vídeo](https://youtu.be/TWPtSzbHsck) explico como vai.
+### creaDoc
+Outro código de Google Apps Script para crear un documento para imprimir coas preguntas do test. Non din feito que escale as imaxes, así que, polo menos de momento, hai que facer esa parte a man, que tampouco é moito, non nos poñamos esixentes.
