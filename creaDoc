@@ -1,9 +1,7 @@
 function createNewGoogleDocs() {
-  //This value should be the id of your document template that we created in the last step
-  const googleDocTemplate = DriveApp.getFileById('1BeFNSRn2UKu0pWZcxXZNVkZ2uCujLTNc0UXYMAGcT24');
+  //This value should be the id of your document 
+  const googleDocTemplate = DriveApp.getFileById('111111111111111111111111111');
   
-  //This value should be the id of the folder where you want your completed documents stored
-  const destinationFolder = DriveApp.getFolderById('1el8G0dZbXQY2YWRvaJwDWMYZ96lvfG3S')
   //Here we store the sheet as a variable
   const sheet = SpreadsheetApp
     .getActiveSpreadsheet()
@@ -19,8 +17,8 @@ function createNewGoogleDocs() {
     //Precarious way to make random order for choices
     var numbers = [2,3,4,5];
     shuffle(numbers);
-    //Once we have the copy, we then open it using the DocumentApp
-    const doc = DocumentApp.openById('1BeFNSRn2UKu0pWZcxXZNVkZ2uCujLTNc0UXYMAGcT24')
+    //You must put the id of your document in here too
+    const doc = DocumentApp.openById('111111111111111111111111111')
     //All of the content lives in the body, so we get that for editing
     const body = doc.getBody();
     
@@ -67,10 +65,4 @@ function shuffle(array) {
     array[randomIndex] = temporaryValue;
   }
 }
-function resizeImg(img, targetHeight) {
-    var height = img.getHeight();
-    var width = img.getWidth();
-    var factor = height / targetHeight;
-    img.setHeight(height / factor);
-    img.setWidth(width / factor);
-};
+
