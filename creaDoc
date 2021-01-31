@@ -24,6 +24,8 @@ function createNewGoogleDocs() {
     
     var question = body.appendListItem('{{question}}');
     if (row[1]!=''){
+//if you are not using my repo as image source, you must write image's url on the second column
+//and only leave "row[1]" inside the brackets
       var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+row[1]);
       body.appendImage(img);
     }
