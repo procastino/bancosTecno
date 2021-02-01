@@ -136,8 +136,27 @@ Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde
 "Partimos do circuíto negro. Se conectamos a parte en verde, cal será falsa?",images/2ResisParaleloTricky44.png,A intensidade total disminuirá,Por -b- pasará unha itensidade igual á que pasa por -a-,A voltaxe de -b- será a mesma que a de -a-,A intensidade que pasa por -a- non variará,circuítos
 Cal é a unidade elemental de Intensidade?,,O Amperio (A),O Ohmnio (Ω),O Voltio (V),O Vatio (W),electricidade
 Cal é a unidade elemental de Resistencia?,,O Ohmnio (Ω),O Voltio (V),O Amperio (A),O Vatio (W),electricidade
+Cal é a unidade elemental de Potencia?,,O Vatio (W),O Voltio (V),O Amperio (A),O Ohmnio (Ω),electricidade
 Cal é falsa para o circuíto da figura?,images/brBr2IntParalelo.png,O led non acenderá nunca,O led acenderá cando prema o interruptor esquerdo,O led acenderá se premo o pulsador dereito,"Se teño premidos os dous interruptores, o led acenderá",circuítos
 Cales leds acenderán cando prema o pulsador?,images/brBr3Led1intCalAcende.png,O verde e o vermello,O azul e o vermello,O vermello,O azul e o verde,circuítos
 Cal é certa para o circuíto da figura?,images/brBr2int2LedParalelo.png,Cada o interruptor acende un led,Non poderei acender o led verde se non premo o interruptor da dereita,"Se premo o pulsador da dereita, acenden os dous leds","O verde está sempre aceso, aínda que non prema ningún pulsador",circuítos
 Cando acenderá o led -b-?,images/3ledParal3IntAcenden.png,Sempre que estea pechado o interruptor 1,"Con 1 pechado, 2 aberto e 3 aberto","Con 1 pechado, 2 aberto e 3 pechado","Con 1 pechado, 2 pechado e 3 aberto",circuítos
 Podo acender só o led -a-?,images/3ledParal4IntAcenden.png,Non,"Si,premendo 1 e 2","Si, premendo 1, 2 e 3","Si, premendo 1 e 3",circuítos
+Cantos ohmnios son 13 KΩ?,,13000Ω,1300Ω,130Ω,13Ω,unidades
+"Cantos ohmnios son 2,2 KΩ?",,2200Ω,22000Ω,"22,0000Ω",220Ω,unidades
+Cantos ohmnios son 47 KΩ?,,47000Ω,4700Ω,470Ω,"4,7Ω",unidades
+"Cantos ohmnios son 0,33KΩ?",,330Ω,3300Ω,33000Ω,33Ω,unidades
+Cantos KΩ son 4700Ω?,,"4,7KΩ",47KΩ,470KΩ,"0,47KΩ",unidades
+Cantos KΩ son 100000Ω?,,100KΩ,10KΩ,1000KΩ,1KΩ,unidades
+Cantos KΩ son 680Ω?,,"0,68KΩ","6,8KΩ","0,068KΩ","0,0068KΩ",unidades
+Cantos microfaradios terá un Faradio?,,1000000,10000000,1000,"0,000001",unidades
+Cantos faradios é un microfaradio?,,"0,000001","0,0000001",1000000,"0,001",unidades
+"Cantos  µF son 0,01 F?",,10000,1000,100000,1000000,unidades
+Cantos F son 220 µF?,,"0,00022","0,0022","0,022","0,22",unidades
+Cal será a voltaxe no punto -a-?,images/voltEnA644.png,3V,6V,4V,Non se pode saber sen o dato da intensidade,lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA60044.png,300V,3V,400V,150V,lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA622.png,3V,6V,2V,4V,lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA62K2K.png,3V,3KV,"0,003V","0,00003V",lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA61K1.png,Case cero voltios,Case 6V,Sobre 3V,máis de 6V,lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA611K.png,Case 6V,Case 0V,Sobre 3V,máis de 6V,lei de ohm
+Cal será a voltaxe no punto -a-?,images/voltEnA642.png,2V,4V,3V,6V,lei de ohm
