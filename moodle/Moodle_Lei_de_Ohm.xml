@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 712  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal das seguintes sería unha expresión incorrecta da lei de Ohm?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Cal das seguintes sería unha expresión incorrecta da lei de Ohm?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>R=I.V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>I=V/R</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>I.R=V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>R=V/I</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 711  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal destas é unha expresión CORRECTA da Lei de Ohm?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Cal destas é unha expresión CORRECTA da Lei de Ohm?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>R=V/I</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>R=I/V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>R=V·I</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>R.V=I</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 726  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA644.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA644.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Non se pode saber sen o dato da intensidade</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 727  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA60044.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA60044.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>300V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>400V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>150V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 728  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA622.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA622.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 729  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA62K2K.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA62K2K.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3KV</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,003V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,00003V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 730  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA61K1.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA61K1.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Case cero voltios</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Case 6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sobre 3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>máis de 6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 731  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA611K.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA611K.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Case 6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Case 0V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sobre 3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>máis de 6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 732  -->
+  <question type="multichoice">
+    <name>
+      <text>Cal será a voltaxe no punto -a-?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cal será a voltaxe no punto -a-?</p><p><img src="@@PLUGINFILE@@/voltEnA642.png" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="500" height="300"><br></p>]]></text>
+<file name="voltEnA642.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>2V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>6V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 716  -->
+  <question type="multichoice">
+    <name>
+      <text>Comprobo que a intensidade que circula por un circuíto é de 2 A e vexo que está alimentado a 6V. Que resistencia hai no circuíto?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Comprobo que a intensidade que circula por un circuíto é de 2 A e vexo que está alimentado a 6V. Que resistencia hai no circuíto?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>3Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,33Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2/6Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 714  -->
+  <question type="multichoice">
+    <name>
+      <text>Conecto unha resistencia de 100 Ω nun circuíto cunha pila de 9 V. Que intensidade circula?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Conecto unha resistencia de 100 Ω nun circuíto cunha pila de 9 V. Que intensidade circula?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>0,09 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>900 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,9 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>11,11 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 722  -->
+  <question type="multichoice">
+    <name>
+      <text>Estás a medir a intensidade que pasa por unha resistencia que non varía.  Nun intre determinado, observas que o valor da intensidade se duplica. Que terá pasado?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Estás a medir a intensidade que pasa por unha resistencia que non varía.  Nun intre determinado, observas que o valor da intensidade se duplica. Que terá pasado?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A voltaxe do circuíto duplicouse tamén</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A voltaxe do circuíto reduciuse a metade</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Non se pode saber sen coñecer a voltaxe á que está conectado o circuíto</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que pasan polo circuíto está a reducirse por algún motivo</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 721  -->
+  <question type="multichoice">
+    <name>
+      <text>Estás medindo a intensidade que pasa por unha resistencia que non varía.  Nun intre determinado, observas que o valor da intensidade reduce á metade. Que terá pasado?</text>
+    </name>
+    <questiontext format="html">
+      <text>Estás medindo a intensidade que pasa por unha resistencia que non varía.  Nun intre determinado, observas que o valor da intensidade redúcese á metade. Que terá pasado?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A voltaxe do circuíto reduciuse, tamén, á metade</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A voltaxe do circuíto duplicouse</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Non se pode saber sen coñecer a voltaxe á que está conectado o circuíto</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que pasan polo circuíto está a aumentar por algún motivo</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 718  -->
+  <question type="multichoice">
+    <name>
+      <text>Nun circuíto cunha resistencia de 100 Ω comprobo que a intensidade é de 0,5 A. Cal é a voltaxe?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Nun circuíto cunha resistencia de 100 Ω comprobo que a intensidade é de 0,5 A. Cal é a voltaxe?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>50V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>200V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>5V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,005V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 724  -->
+  <question type="multichoice">
+    <name>
+      <text>Que calor nos dará un circuíto durante 10 segundos, se a voltaxe é de 9 V e a intensidade de 2A?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Que calor nos dará un circuíto durante 10 segundos, se a voltaxe é de 9 V e a intensidade de 2A?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>180 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1,8 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>45 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4,5 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 723  -->
+  <question type="multichoice">
+    <name>
+      <text>Que potencia eléctrica xerará un compoñente que funcione a 3 V e 2 A?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Que potencia eléctrica xerará un compoñente que funcione a 3 V e 2 A?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>6W</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>5W</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1,5W</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,67W</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 713  -->
+  <question type="multichoice">
+    <name>
+      <text>Tes un circuíto conectado a unha voltaxe de  20 V polo que ves que pasa unha corrente de 10 A. Cal é a resistencia que ten ese circuíto?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Tes un circuíto conectado a unha voltaxe de  20 V polo que ves que pasa unha corrente de 10 A. Cal é a resistencia que ten ese circuíto?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>2Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>200Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,5Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1Ω</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 719  -->
+  <question type="multichoice">
+    <name>
+      <text>Tes un circuíto cunha voltaxe determinada conectada a unha resistencia. Substitúes esa resistencia por unha de maior valor, que vai pasar no circuíto?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Tes un circuíto cunha voltaxe determinada conectada a unha resistencia. Substitúes esa resistencia por unha de maior valor, que vai pasar no circuíto?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo, será menor</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo, aumentará</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo non se verá afectada</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A intensidade que pasa pola resistencia será maior</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 720  -->
+  <question type="multichoice">
+    <name>
+      <text>Tes un circuíto cunha voltaxe determinada conectada a unha resistencia. Substitúes esa resistencia por unha de menor valor, que vai pasar?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Tes un circuíto cunha voltaxe determinada conectada a unha resistencia. Substitúes esa resistencia por unha de menor valor, que vai pasar?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo, aumentará</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo, diminuirá</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A cantidade de electróns que van pasar pola resistencia cada unidade de tempo non se verá afectada</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A intensidade que pasa pola resistencia será máis pequena</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 717  -->
+  <question type="multichoice">
+    <name>
+      <text>Tes un circuíto de resistencia de 3 ohmios polo que pasa unha intensidade de 9A. A que voltaxe estará conectado ese circuíto?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Tes un circuíto de resistencia de 3 ohmios polo que pasa unha intensidade de 9A. A que voltaxe estará conectado ese circuíto?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>27 V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,33 V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3 V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12 V</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 715  -->
+  <question type="multichoice">
+    <name>
+      <text>Tes un circuíto dunha resistencia de 4 ohmios conectado a unha pila de 8V. Que intensidade circulará?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Tes un circuíto dunha resistencia de 4 ohmios conectado a unha pila de 8V. Que intensidade circulará?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>2 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>32 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,5 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12 A</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 725  -->
+  <question type="multichoice">
+    <name>
+      <text>Un circuíto que consume unha potencia de 10 W funciona durante 5 segundos. Que enerxía consumiu nese tempo?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Un circuíto que consume unha potencia de 10 W funciona durante 5 segundos. Que enerxía consumiu nese tempo?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>50 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>10 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>0,5 J</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
