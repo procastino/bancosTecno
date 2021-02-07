@@ -8,6 +8,8 @@ Un listado de preguntas tipo test de múltipla escolla, cunha soa resposta corre
  * "bloque", os bloques non son os definidos pola LOMCE, senón uns bloques persoais asignados en función da estrutura empregada nas aulas polo autor.
 ### Para que?
 Ter un gran repositorio de preguntas nun formato doado de manipular e transformar, que logo poida ser adaptado a distintas plataformas, servizos e tipos de documentos.
+###Moodle
+Neste cartafol están as preguntas en formato XML en formato importable de Moodle. Provisionalmente, inclúense estas preguntas mentres se desenvolve un método de exportación funcional para pasar de CSV a Moodle. Traballo de [AntonioLagoD](https://github.com/AntonioLagoD).
 ### creaQuiz
 É un código de Google Apps Script para crear formularios de Google a partir das preguntas do banco. Neste [vídeo](https://youtu.be/TWPtSzbHsck) explico como vai.
 ### creaDoc
