@@ -1,8 +1,7 @@
+//This function generates a Google Doc with the questions from question bank
+//and random order choices
 function createNewGoogleDocs() {
-  //This value should be the id of your document 
-  const googleDocTemplate = DriveApp.getFileById('111111111111111111111111111');
-  
-  //Here we store the sheet as a variable
+  //Here we store this sheet as a variable
   const sheet = SpreadsheetApp
     .getActiveSpreadsheet()
     .getSheetByName('Data')
@@ -18,16 +17,17 @@ function createNewGoogleDocs() {
     var numbers = [2,3,4,5];
     shuffle(numbers);
     //You must put the id of your document in here too
-    const doc = DocumentApp.openById('111111111111111111111111111')
+    const doc = DocumentApp.openById('1BeFNSRn2UKu0pWZcxXZNVkZ2uCujLTNc0UXYMAGcT24')
     //All of the content lives in the body, so we get that for editing
     const body = doc.getBody();
-    
+    //We create the template for the question and choices as a list, that we will replace later
     var question = body.appendListItem('{{question}}');
+    //if there is an image URL, we append the image
     if (row[1]!=''){
-//if you are not using my repo as image source, you must write image's url on the second column
-//and only leave "row[1]" inside the brackets
       var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+row[1]);
-      body.appendImage(img);
+      var image = body.appendImage(img);
+      //we set an default max height of 200 px, change or comment if not useful
+      resizeImg(image,200);
     }
     var choice1 = body.appendListItem('{{choice1}}');
     choice1.setNestingLevel(1);
@@ -38,7 +38,7 @@ function createNewGoogleDocs() {
     var choice4 = body.appendListItem('{{choice4}}');
     choice4.setNestingLevel(1);
         
-    //In these lines, we replace our replacement tokens with values from our spreadsheet row
+    //In these lines, we replace our created tokens by the content of our rows
     body.replaceText('{{question}}', row[0]);
     body.replaceText('{{choice1}}', row[numbers[0]]);
     body.replaceText('{{choice2}}', row[numbers[1]]);
@@ -66,5 +66,13 @@ function shuffle(array) {
     array[currentIndex] = array[randomIndex];
     array[randomIndex] = temporaryValue;
   }
+}
+//this function resizes the images to the desired height
+function resizeImg(img, targetHeight) {
+    var height = img.getHeight();
+    var width = img.getWidth();
+    var factor = height / targetHeight;
+    img.setHeight(height / factor);
+    img.setWidth(width / factor);
 }
 
