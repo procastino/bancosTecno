@@ -1,0 +1,640 @@
+
+Category: Electricity
+Title: circuitos
+Author: Tucho Méndez
+Show_max: 0
+
+---
+
+
+- Question: "¿Cuál de ellas NO corresponde a un circuito eléctrico?"
+  Image: ""
+  Choices:
+    - "Se produce siempre que hay una corriente eléctrica."
+    - "Siempre tiene que haber un elemento que suministre energía eléctrica."
+    - "Siempre produce calor."
+    - "Siempre habrá alguna transformación de energía."
+
+- Question: "¿Cuáles son los tipos de elementos que puedo encontrar en un circuito eléctrico?"
+  Image: ""
+  Choices:
+    - "Generadores, conductores, receptores y elementos de control"
+    - "Generadores, conductores, aparatos eléctricos y elementos de control"
+    - "Generadores, cables,  interruptores y  conmutadores"
+    - "Pilas, cables, resistencias y  interruptores"
+
+- Question: "Si juntamos dos pilas de 1,5V de este modo... ¿cuál será el voltaje total?"
+  Image: "images/duasPilasSerie. png"
+  Choices:
+    - "3V"
+    - "1,5V"
+    - "0,75V"
+    - "1,33V"
+
+- Question: "Si juntamos dos resistencias de 4Ω de este modo... ¿cuál será su resistencia equivalente?"
+  Image: "images/2ResisParalelo. png"
+  Choices:
+    - "2Ω"
+    - "4Ω"
+    - "8Ω"
+    - "3Ω"
+
+- Question: "¿Cómo se llaman los elementos de un circuito que suministran los electrones?"
+  Image: ""
+  Choices:
+    - "Generadores"
+    - "Receptores"
+    - "Conductores"
+    - "Elementos de control"
+
+- Question: "¿Cómo se llaman los elementos de un circuito que transforman la electricidad en otro tipo de energía?"
+  Image: ""
+  Choices:
+    - "Receptores"
+    - "Generadores"
+    - "Transformadores"
+    - "Elementos de control"
+
+- Question: "¿Cómo se llaman los elementos de un circuito que permiten el paso de la corriente entre un componente y otro?"
+  Image: ""
+  Choices:
+    - "Conductores"
+    - "Generadores"
+    - "Elementos de control"
+    - "Receptores"
+
+- Question: "¿Cómo se llaman los elementos de un circuito que nos permiten hacer que la corriente circule por donde nosotros queremos?"
+  Image: ""
+  Choices:
+    - "Elementos de control"
+    - "Generadores"
+    - "Conductores"
+    - "Receptores"
+
+- Question: "¿Cuál no es un generador?"
+  Image: ""
+  Choices:
+    - "Motor"
+    - "Pila"
+    - "Batería"
+    - "Toma de red"
+
+- Question: "¿Cuál consideramos un conductor?"
+  Image: ""
+  Choices:
+    - "Cable"
+    - "Interruptor"
+    - "Pulsador"
+    - "Aluminio"
+
+- Question: "¿Cuál no sería un receptor?"
+  Image: ""
+  Choices:
+    - "Pila"
+    - "Motor"
+    - "Lámpara"
+    - "Resistencia"
+
+- Question: "¿Cuál no es un elemento de control?"
+  Image: ""
+  Choices:
+    - "Cable"
+    - "Interruptor"
+    - "Pulsador"
+    - "Conmutador"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/pilaSimbolo.png"
+  Choices:
+    - "Batería"
+    - "Generador de corriente alterna"
+    - "Motor"
+    - "Toma de tierra"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/xeradorAC.png"
+  Choices:
+    - "Generador de corriente alterna"
+    - "Batería o pila"
+    - "Lámpara"
+    - "Motor eléctrico"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/pulsadorSimbolo.png"
+  Choices:
+    - "pulsador"
+    - "interruptor"
+    - "conmutador"
+    - "pila"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/interruptorSimbolo.png"
+  Choices:
+    - "interruptor"
+    - "conmutador"
+    - "pulsador"
+    - "botón"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/conmutadorSimbolo.png"
+  Choices:
+    - "conmutador"
+    - "interruptor"
+    - "pulsador"
+    - "fusible"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/resistenciaSimbolo.png"
+  Choices:
+    - "resistencia"
+    - "pila"
+    - "lámpara"
+    - "interruptor"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/resistenciaSimbolo2.png"
+  Choices:
+    - "resistencia"
+    - "lámpara"
+    - "pila"
+    - "interruptor"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/ledSimbolo.png"
+  Choices:
+    - "LED"
+    - "lámpara"
+    - "Altavoz"
+    - "Motor"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/lampadaSimbolo.png"
+  Choices:
+    - "Lámpara"
+    - "LED"
+    - "Motor"
+    - "Patrulla X"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/zoadorSimbolo.png"
+  Choices:
+    - "zoador"
+    - "altavoz"
+    - "motor"
+    - "Generador Alterna"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/altofalanteSimbolo.png"
+  Choices:
+    - "altavoz"
+    - "zumbador"
+    - "generador alterna"
+    - "Generador de continua"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/motorSimbolo.png"
+  Choices:
+    - "motor"
+    - "zumbador"
+    - "watímetro"
+    - "lámpara"
+
+- Question: "¿A qué componente se corresponde el símbolo de la figura?"
+  Image: "images/terraSimbolo.png"
+  Choices:
+    - "tierra"
+    - "pila"
+    - "antena"
+    - "receptor"
+
+- Question: "¿Cómo están conectadas las resistencias de la figura?"
+  Image: "images/3ResisSerie.png"
+  Choices:
+    - "Serie"
+    - "Línea"
+    - "Paralelo"
+    - "Mixto"
+
+- Question: "¿Cómo están conectadas las resistencias de la figura?"
+  Image: "images/3ResisParalelo.png"
+  Choices:
+    - "Paralelo"
+    - "lateral"
+    - "Serie"
+    - "mixto"
+
+- Question: "¿Cómo están conectadas las resistencias de la figura?"
+  Image: "images/3ResisMixto.png"
+  Choices:
+    - "Mixto"
+    - "Paralelo"
+    - "Serie"
+    - "compuesto"
+
+- Question: "¿Cuál será el voltaje total de las pilas?"
+  Image: "images/3PilasSerie.png"
+  Choices:
+    - "6V"
+    - "2V"
+    - "2/3V"
+    - "8V"
+
+- Question: "¿Cuál será el voltaje total de las pilas?"
+  Image: "images/3PilasParalelo.png"
+  Choices:
+    - "2V"
+    - "6V"
+    - "2/3V"
+    - "8V"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/3ResisSerie223.png"
+  Choices:
+    - "7Ω"
+    - "12Ω"
+    - "6/8Ω"
+    - "8/6Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/3ResisParalelo666.png"
+  Choices:
+    - "2Ω"
+    - "18Ω"
+    - "0,5Ω"
+    - "3/6Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/3ResisParalelo422.png"
+  Choices:
+    - "4/5Ω"
+    - "5/4Ω"
+    - "3/8Ω"
+    - "8/3Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/2ResisParalelo36.png"
+  Choices:
+    - "2Ω"
+    - "0,5Ω"
+    - "9Ω"
+    - "3Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/3ResisMixto422.png"
+  Choices:
+    - "5Ω"
+    - "8Ω"
+    - "4Ω"
+    - "6Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/3ResisMixto436.png"
+  Choices:
+    - "6Ω"
+    - "13Ω"
+    - "4,5Ω"
+    - "3Ω"
+
+- Question: "¿Cuál será el valor de la resistencia equivalente?"
+  Image: "images/4ResisMixto4466.png"
+  Choices:
+    - "5Ω"
+    - "20Ω"
+    - "1,2Ω"
+    - "5Ω"
+
+- Question: "¿Qué diferencias de funcionamento habrá entre el circuito 1 y 2?"
+  Image: "images/2circSimples.png"
+  Choices:
+    - "Ninguna"
+    - "En el circuito 2, el led enciende aunque no cerremos el interruptor"
+    - "Los dos leds encienden al presionar el interruptor, pero el 2 un instante antes"
+    - "Los dos leds encienden al presionar el interruptor, pero el 1 un instante antes"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/2receptoresSerie.png"
+  Choices:
+    - "El led -a- encenderá un instante antes que el -b-"
+    - "La intensidad que circula por los dos leds es la misma"
+    - "Los dos leds encenderán al presionar el interruptor"
+    - "Si el led -b- se quema, el -a- no podrá encender"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/2resisSerie.png"
+  Choices:
+    - "Las dos resistencias están sometidas al mismo voltaje"
+    - "Si el interruptor cierra, pasará intensidad por las dos resistencias"
+    - "Por las dos resistencias pasará siempre la misma intensidad"
+    - "Si desconecto la resistencia - b- no pasará corriente por el circuito"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/2resisParalelo.png"
+  Choices:
+    - "La intensidad que pasa por las dos resistencias es la misma"
+    - "Las dos resistencias están sometidas al mismo voltaje"
+    - "Si desconecto la resistencia -a-, seguirá pasando corriente por la - b-"
+    - "La intensidad total del circuito será la suma de la intensidad por -a- y la intensidad por - b-"
+
+- Question: "Que será cierto para la intensidad que pasa por la resistencia -a-?"
+  Image: "images/2resisParalelo.png"
+  Choices:
+    - "Pasará el doble de intensidad que por la resistencia -b-"
+    - "Pasará la misma intensidad que por la resistencia -b-"
+    - "Pasará la mitad de intensidad que por la resistencia -b-"
+    - "Por ella pasará la mitad de la intensidad total do circuíto"
+
+- Question: "¿Por cuál resistencia pasará más intensidad?"
+  Image: "images/3resisParalelo.png"
+  Choices:
+    - "Por la -a-"
+    - "Por la -b-"
+    - "Por la -c-"
+    - "Por todas pasará la misma"
+
+- Question: "¿Que pasará en este circuíto si conecto la resistencia -c- ?"
+  Image: "images/3resisParaleloQue.png"
+  Choices:
+    - "La intensidad total aumentará respecto a cuando había dos"
+    - "El voltaje al que están sometidas a las resistencias disminuirá respecto a cuando había dos"
+    - "El voltaje al que están sometidas las resistencias aumentará respecto a cuando había dos"
+    - "La intensidad total disminuirá respecto a cuando había dos"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/2IntSerie.png"
+  Choices:
+    - "Si cerramos uno u otro interruptor, pasará corriente por la resistencia"
+    - "Si cerramos uno y otro interruptor, pasará corriente por la resistencia"
+    - "Si cerramos los dos interruptores, pasará corriente por la resistencia"
+    - "Solo pasará corriente por la resistencia si cerramos todos los interruptores"
+
+- Question: "¿Para qué podrías emplear el circuito de la figura?"
+  Image: "images/2IntSerieMotor.png"
+  Choices:
+    - "Una motosierra que actúa solo cuando presiono dos interruptores"
+    - "Un ventilador que se enciende desde dos puntos distintos"
+    - "Una alarma que se enciende desde cualquiera de los dos interruptores"
+    - "Un taladro que puede ser accionado con un interruptor o con otro"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/2IntParalelo.png"
+  Choices:
+    - "La corriente pasará solo cuando cerremos los dos interruptores"
+    - "Si cerramos uno u otro interruptor, pasará corriente por la resistencia"
+    - "Para que pase la corriente, podemos cerrar cualquiera de los dos interruptores"
+    - "La corriente pasa siempre que haya por lo menos un interruptor cerrado"
+
+- Question: "¿Cuál es falsa, para el circuito de la figura?"
+  Image: "images/ledCurtocircuito.png"
+  Choices:
+    - "El led -a- encenderá"
+    - "El led -a- está cortocircuitado"
+    - "La intensidad no pasará por el led -a- porque tiene un camino alternativo sin resistencia"
+    - "El led - b- encenderá"
+
+- Question: "¿Cuál es verdadera para el circuito de la figura?"
+  Image: "images/2IntSerieTricky.png"
+  Choices:
+    - "Solo pasará corriente por la resistencia con 1 y 2 cerrados"
+    - "Si cierro el interruptor 1 pasará corriente por la resistencia"
+    - "Se cierro el interruptor 2 pasará corriente por la resistencia"
+    - "Si cierro cualquiera de los dos interruptores, pasará corriente"
+
+- Question: "¿Cuándo pasará corriente por la resistencia?"
+  Image: "images/2IntMixtoTricky.png"
+  Choices:
+    - "Solo si 2 está cerrado y 1 abierto"
+    - "Si cerramos 1 y 2"
+    - "Cerrando el 2, independientemente de cómo esté 1"
+    - "Cerrando el 2 o el 1"
+
+- Question: "¿Cómo están conectadas las resistencias en la  breadboard?"
+  Image: "images/brboardSerieParalelo01.png"
+  Choices:
+    - "1 en paralelo, 2 en serie"
+    - "Las dos en serie"
+    - "Las dos en paralelo"
+    - "1 en serie, 2 en paralelo"
+
+- Question: "¿Cómo están conectadas las resistencias en la  breadboard?"
+  Image: "images/brboardSerieParalelo02.png"
+  Choices:
+    - "Las dos en serie"
+    - "1 en serie, 2 en paralelo"
+    - "1 en paralelo, 2 en serie"
+    - "Las dos en paralelo"
+
+- Question: "¿Por qué resistencias pasará corriente?"
+  Image: "images/brboardBenConectadas01.png"
+  Choices:
+    - "Por 1 y 2"
+    - "Por todas"
+    - "Por 2 y 3"
+    - "Por ninguna"
+
+- Question: "¿Qué montajes se corresponden con el esquema?"
+  Image: "images/brboardResisCircuito.png"
+  Choices:
+    - "1"
+    - "2"
+    - "3"
+    - "ninguno"
+
+- Question: "¿Cuál es falsa para el circuito de la figura?"
+  Image: "images/2Int3leds.png"
+  Choices:
+    - "Puedo encender - c- sin encender -a- y - b-"
+    - "Con el  interruptor 1 abierto, no encenderá nada"
+    - "El  interruptor 1 enciende -a- y - b-"
+    - "Con los dos  interruptores presionados, encienden todos los  leds"
+
+- Question: "¿Cuándo encenderá el  led verde?"
+  Image: "images/brBoard2PulsXeralSecundario.png"
+  Choices:
+    - "Si tengo presionados los dos  pulsadores"
+    - "Si presiono el  pulsador de la derecha"
+    - "Si presiono el  pulsador de la izquierda"
+    - "En ningún caso"
+
+- Question: "¿Cuál es falsa para el circuito de la figura?"
+  Image: "images/brBoard2PulsXeralSecundario.png"
+  Choices:
+    - "Puedo encender el  led verde sin que encienda el  led rojo"
+    - "Para encender el  led verde tengo que haber presionado el  pulsador de la izquierda"
+    - "Para encender el  led verde tengo que haber presionado el  pulsador de la derecha"
+    - "El  led rojo enciende cuando presiono el  pulsador de la derecha"
+
+- Question: "¿A qué esquema se corresponde el circuito de la  breadboard?"
+  Image: "images/brBoard2PulsXeralSecEsquemas.png"
+  Choices:
+    - "Al rosa"
+    - "Al azul"
+    - "Al verde"
+    - "Al naranja"
+
+- Question: "Cuál será cierta, para el circuito de la figura?"
+  Image: "images/2IntResisLedCorto.png"
+  Choices:
+    - "El  led encenderá si únicamente está cerrado -a-"
+    - "El  led no encenderá cuando -b- esté abierto"
+    - "El  led encenderá cuando presione los dos  interruptores"
+    - "El  led encenderá al presionar -a-, esté como esté - b-"
+
+- Question: "¿Qué  leds encenderán?"
+  Image: "images/6ledAcenden.png"
+  Choices:
+    - "El 2,3,4 y 6"
+    - "El 1 y el 5"
+    - "Ninguno"
+    - "El 3 y el 4"
+
+- Question: "¿Qué  leds encenderán?"
+  Image: "images/2CircLedAcenden.png"
+  Choices:
+    - "El 1 y el 3"
+    - "El 1, 3, 4 y 6"
+    - "Ninguno"
+    - "Todos"
+
+- Question: "¿Qué  leds encenderán?"
+  Image: "images/3LedsCortoAcenden.png"
+  Choices:
+    - "Ninguno"
+    - "El 3"
+    - "El 2 y el 3"
+    - "Todos"
+
+- Question: "¿Qué  leds encenderán?"
+  Image: "images/4LedsCortoAcenden.png"
+  Choices:
+    - "El 4"
+    - "Todos"
+    - "El 1, 3 y 4"
+    - "Ninguno"
+
+- Question: "Quiero que el  led encienda cuando presiono el  pulsador. ¿Hay algún fallo?"
+  Image: "images/brbrUnLedPulsadorTricky.png"
+  Choices:
+    - "Los cables no están en los terminales correctos del  pulsador"
+    - "El  led está puesto del revés"
+    - "La resistencia no está conectada al  led"
+    - "No hay fallos, va a encender"
+
+- Question: "Quiero que el  led encienda solo cuando presiono los dos  pulsadores. ¿Hay algún fallo?"
+  Image: "images/brbr2pulsadoresSerieTricky.png"
+  Choices:
+    - "Ninguno"
+    - "El  led encenderá cuando presione cualquiera de los  interruptores"
+    - "El cable verde no conecta los terminales correctos de los  interruptores"
+    - "La resistencia no está conectada en el terminal correcto del  pulsador"
+
+- Question: "¿Qué cable tengo que quitar para que el  led encienda desde cualquiera de los dos  pulsadores?"
+  Image: "images/2pulsParaleloQuitaCable.png"
+  Choices:
+    - "El naranja"
+    - "El verde"
+    - "El azul"
+    - "El amarillo"
+
+- Question: "¿Por qué circuito circulará más corriente?"
+  Image: "images/leiOhmSameVolt.png"
+  Choices:
+    - "Por el 1"
+    - "Por el 2"
+    - "Por el 3"
+    - "Por el 4"
+
+- Question: "¿Por qué circuito circulará más corriente?"
+  Image: "images/leiOhmSameRes.png"
+  Choices:
+    - "Por el 2"
+    - "Por el 1"
+    - "Por el 3"
+    - "Por el 4"
+
+- Question: "¿Por qué circuito circulará más corriente?"
+  Image: "images/leiOhmSameVoltDecimalOhm.png"
+  Choices:
+    - "Por el 3"
+    - "Por el 2"
+    - "Por el 1"
+    - "Por el 4"
+
+- Question: "¿Por qué circuito circulará más corriente?"
+  Image: "images/leiOhmSameVoltKohm.png"
+  Choices:
+    - "Por el 2"
+    - "Por el 1"
+    - "Por el 3"
+    - "Por el 4"
+
+- Question: "¿Por qué circuito circulará más corriente?"
+  Image: "images/leiOhmDifVoltDifRes.png"
+  Choices:
+    - "Por el 4"
+    - "Por el 1"
+    - "Por el 2"
+    - "Por el 3"
+
+- Question: "Partimos del circuito negro. ¿Qué pasará cuando conectemos la resistencia en verde?"
+  Image: "images/2ResisParaleloTricky44.png"
+  Choices:
+    - "La intensidad total del circuito aumentará"
+    - "El voltaje al que está sometida -a-  disminuirá"
+    - "La intensidad total del circuito  disminuirá"
+    - "La intensidad total del circuito no variará"
+
+- Question: "Partimos del circuito negro. Qué pasará cuando conectemos la resistencia en verde?"
+  Image: "images/2ResisParaleloTricky44.png"
+  Choices:
+    - "Por -b- pasará la misma intensidad que por -a-"
+    - "El voltaje de -a- será la mitad que antes"
+    - "La resistencia equivalente en el circuito será de 4Ω"
+    - "La intensidad total del circuito no variará"
+
+- Question: "Partimos del circuito negro. Si conectamos la parte en verde, cuál será falsa?"
+  Image: "images/2ResisParaleloTricky44.png"
+  Choices:
+    - "La intensidad total  disminuirá"
+    - "Por -b- pasará una  intensidad igual a la que pasa por -a-"
+    - "El voltaje de -b- será el mismo que el de -a-"
+    - "La intensidad que pasa por -a- no variará"
+
+- Question: "¿Cuál es falsa para el circuito de la figura?"
+  Image: "images/brBr2IntParalelo.png"
+  Choices:
+    - "El  led no encenderá nunca"
+    - "El  led encenderá cuando presione el interruptor izquierdo"
+    - "El led encenderá si presiono el  pulsador derecho"
+    - "Si tengo presionados los dos  interruptores, el  led encenderá"
+
+- Question: "¿Cuáles  leds encenderán cuando presione el pulsador?"
+  Image: "images/brBr3Led1intCalAcende.png"
+  Choices:
+    - "El verde y el rojo"
+    - "El azul y el rojo"
+    - "El rojo"
+    - "El azul y el verde"
+
+- Question: "¿Cuál es cierta para el circuito de la figura?"
+  Image: "images/brBr2int2LedParalelo.png"
+  Choices:
+    - "Cada interruptor enciende un  led"
+    - "No podré encender el  led verde si no presiono el  interruptor de la derecha"
+    - "Si presiono el  pulsador de la derecha, encienden los dos  leds"
+    - "El verde está siempre encendido, aunque no presione ningún  pulsador"
+
+- Question: "¿Cuándo encenderá el  led -b-?"
+  Image: "images/3ledParal3IntAcenden.png"
+  Choices:
+    - "Siempre que esté cerrado el  interruptor 1"
+    - "Con 1 cerrado, 2 abierto y 3 abierto"
+    - "Con 1 cerrado, 2 abierto y 3 cerrado"
+    - "Con 1 cerrado, 2 cerrado y 3 abierto"
+
+- Question: "¿Puedo encender solo el  led -a-?"
+  Image: "images/3 ledParal4IntAcenden.png"
+  Choices:
+    - "No"
+    - "Sí,presionando 1 y 2"
+    - "Sí, presionando 1, 2 y 3"
+    - "Sí, presionando 1 y 3"
