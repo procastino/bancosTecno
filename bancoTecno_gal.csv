@@ -160,3 +160,67 @@ Cal será a voltaxe no punto -a-?,images/voltEnA62K2K.png,3V,3KV,"0,003V","0,000
 Cal será a voltaxe no punto -a-?,images/voltEnA61K1.png,Case cero voltios,Case 6V,Sobre 3V,máis de 6V,lei de ohm
 Cal será a voltaxe no punto -a-?,images/voltEnA611K.png,Case 6V,Case 0V,Sobre 3V,máis de 6V,lei de ohm
 Cal será a voltaxe no punto -a-?,images/voltEnA642.png,2V,4V,3V,6V,lei de ohm
+Cal será o valor da resistencia da figura?,images/1kOhm.png,1 KΩ,10 KΩ,10000 Ω,100 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/1MOhm.png,1 MΩ,100KΩ,10000000 Ω,10 MΩ,valores resistencias
+Cal será o valor da resistencia da figura?,images/2k2Ohm.png,2200 Ω,220 Ω,22 KΩ,222 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/2K7Ohm.png,"2,7 KΩ",272 Ω,27000 Ω,270 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/3Ohm.png,3 Ω,30 Ω,"0,3 Ω",3 KΩ,valores resistencias
+Cal será o valor da resistencia da figura?,images/10KOhm.png,10 KΩ,1 KΩ,100 KΩ,103 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/15KOhm.png,15000 Ω,"1,5 KΩ",1500 Ω,150 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/33Ohm.png,33 Ω,"3,3 Ω","0,33 Ω",330 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/82MOhm.png,82000000 Ω,8200000Ω,820000000 Ω,820 MΩ,valores resistencias
+Cal será o valor da resistencia da figura?,images/100Ohm.png,100 Ω,101 Ω,10 Ω,1000 Ω,valores resistencias
+Cal será o valor da resistencia da figura?,images/220Ohm.png,220 Ω,22 Ω,222 Ω,"2,2KΩ",valores resistencias
+Cal será o valor da resistencia da figura?,images/330Ohm.png,330 Ω,"0,033 KΩ",33 Ω,"3,3 KΩ",valores resistencias
+Cal será o valor da resistencia da figura?,images/470KOhm.png,470 KΩ,471000 Ω,"4,7 KΩ",47 KΩ,valores resistencias
+Cal será o valor da resistencia da figura?,images/470Ohm.png,470 Ω,47 KΩ,47 MΩ,47 Ω,valores resistencias
+Que cores terá unha resistencia de 330 Ω?,images/colorCode.png,laranxa - laranxa - marrón,laranxa - laranxa - negro,laranxa - marrón - laranxa,vermello - laranxa - marrón,valores resistencias
+Que cores terá unha resistencia de 33 Ω?,images/colorCode.png,laranxa - laranxa - negro,laranxa - laranxa - branco,laranxa - negro - laranxa,laranxa - negro - negro,valores resistencias
+Que cores terá unha resistencia de 220 Ω?,images/colorCode.png,vermello - vermello - marrón,vermello - vermello - negro,vermello - vermello - vermello,vermello - marrón - marrón,valores resistencias
+Que cores terá unha resistencia de 1 KΩ?,images/colorCode.png,marrón - negro - vermello,marrón - negro - laranxa,marrón - negro - amarelo,marrón - negro - marrón,valores resistencias
+Que cores terá unha resistencia de 10 KΩ?,images/colorCode.png,marrón - negro - laranxa,marrón - negro - vermello,marrón - negro - negro,marrón - negro - amarelo,valores resistencias
+Que cores terá unha resistencia de 100 KΩ?,images/colorCode.png,marrón - negro - amarelo,marrón  - negro - laranxa,marrón - negro - vermello,marrón - negro - verde,valores resistencias
+"Que cores terá unha resistencia de 2,2 KΩ?",images/colorCode.png,vermello - vermello - vermello,vermello - vermello - marrón,vermello - vermello - laranxa,vermello - vermello - verde,valores resistencias
+Que cores terá unha resistencia de 470 Ω?,images/colorCode.png,amarelo - morado - marrón,morado - amarelo - marrón,marrón - amarelo - morado,amarelo - marrón - morado,valores resistencias
+Que cores terá unha resistencia de 47 KΩ?,images/colorCode.png,amarelo - morado - laranxa,amarelo - morado - amarelo,amarelo - morado - morado,amarelo - morado - vermello,valores resistencias
+Que cores terá unha resistencia de 100 Ω?,images/colorCode.png,marrón -  negro - marrón,marrón - marrón - marrón,marrón - negro - negro,marrón - marrón - negro,valores resistencias
+Teño unha resistencia de 100 Ω cunha tolerancia do 5%. Que valores serían admisibles?,,entre 95 e 105 Ω,entre 90 e 110 Ω,"entre 97,5 e 102,5 Ω",entre 100 e 105 Ω,valores resistencias
+Teño unha resistencia de 10 KΩ cunha tolerancia do 2%. Que valores serían admisibles?,,Entre 9800 e 10200 Ω,Entre 8000 e 12000 Ω,Entre 9900 e 10100 Ω,Entre 9800 e 10000 Ω,valores resistencias
+Teño unha resistencia de 220 Ω cunha tolerancia do 10%. Que valores serían admisibles?,,Entre 198 e 242 Ω,Entre 200 e 240 Ω,Entre 209 e 231 Ω,Entre 218 e 222 Ω,valores resistencias
+Que me indica a última franxa de cor dunha resistencia fixa?,,"A súa tolerancia, en %",A voltaxe máxima que pode soportar,Indícame que ese lado vai a positivo,Indícame que ese lado vai a negativo,valores resistencias
+Que é a tolerancia dunha resistencia fixa?,,Un indicador do marxe de erro que podo atopar no valor desa resistencia,A porcentaxe de valor desa resistencia en ohmnios,A potencia máxima que poderá disipar esa resistencia en forma de calor,A capacidade da resistencia para tolerar incrementos de voltaxe na súa alimentación.,valores resistencias
+"Unha resistencia fixa con máis ohmnios que outra, terá...",,Unhas cores distintas nas súas tres primeiras franxas,Maior tamaño,Unha cor distinta na súa cuarta franxa,"Unha cor distinta no ""corpo"" da resistencia",valores resistencias
+Que me di a cor da última banda dunha resistencia fixa?,,A precisión que podo agardar no valor desa resistencia,A potencia que poderá disipar esa resistencia,A porcentaxe de erro que podo agardar respecto á aplicación da Lei de Ohm,"O erro, en porcentaxe, que me podo atopar respecto á lonxitude desa resistencia",valores resistencias
+Cal é o compoñente elemental da electrónica dixital?,,O transistor,A resistencia,O condensador,O transmisor,dixital
+Cal non é unha porta lóxica?,,TOR,OR,NOR,XOR,dixital
+Queres facer unha alarma que salte cando se abre calquera fiestra dunha habitación. Que tipo de portas lóxicas serán a base do teu circuíto?,,OR,AND,NOT,NAND,dixital
+"Como funcionará un fecho SR, sabendo que S ven de set e R de reset?",,A entrada S a 1 fará que a saída se poña a 1 e a entrada R que se poña a 0. ,A entrada R a 1 fará que a saída se poña a 1 e se está a 0 a saída será 0,A entrada S a 1 fará que a saída se poña a 0 e a entrada R que se poña a 1.,"A entrada S fará que a saída se poña a 1, independentemente da R.",dixital
+"Como funcionará un fecho D, sabendo que ten entradas D (data) e E (enable)?",," Cando E estea a 1, a saída será o estado de D. Se E está a 0, manterá o último estado.","Cando D estea a 1, a saída será o estado de E. Se D está a 0, manterá o último estado","Cando E estea a 0, a saída será o estado de D. Se E está a 1, manterá o último estado.","Cando E estea a 1, a saída será 1 ou 0 dependendo de se D estaba antes a 1 ou se non estaba antes a 1 e si a 0, sempre e cando E siga a estar a 0 ou a 1.",dixital
+"Quen publicou en 1854 ""The laws of thought"", o libro que consideramos o inicio da lóxica dixital?",,George Boole,Charles Babbage,William Shockley,Bill Gates,dixital
+"En que ano publicou George Boole o libro ""The Laws of Thought"", que consideramos o inicio da lóxica dixital?",,1854,1904,1934,1954,dixital
+Que porta lóxica representa este símbolo?,images/notGate.png,NOT,OR,NAND,NOR,dixital
+Que porta lóxica representa este símbolo?,images/orGate.png,OR,NOR,AND,XOR,dixital
+Que porta lóxica representa este símbolo?,images/andGate.png,AND,NAND,OR,XOR,dixital
+Que porta lóxica representa este símbolo?,images/norGate.png,NOR,NOT,OR,XOR,dixital
+Que porta lóxica representa este símbolo?,images/nandGate.png,NAND,AND,NOR,NOT,dixital
+Que porta lóxica representa este símbolo?,images/xorGate.png,XOR,XNOR,OR,NOR,dixital
+Que porta lóxica representa este símbolo?,images/xnorGate.png,XNOR,NOR,OR,XOR,dixital
+Que porta lóxica se constrúe con este circuíto?,images/transistorNor.png,NOR,OR,AND,NAND,dixital
+Que porta lóxica se constrúe con este circuíto?,images/transistorAnd.png,AND,NAND,OR,XOR,dixital
+Que porta lóxica se constrúe con este circuíto?,images/transistorNand.png,NAND,AND,XAND,OR,dixital
+Que porta lóxica se constrúe con este circuíto?,images/transistorOr.png,OR,AND,NOR,NAND,dixital
+Que porta lóxica se constrúe con este circuíto?,images/transistorNot.png,NOT,NOR,AND,OR,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaNot.png,NOT,OR,AND,NOR,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaOr.png,OR,AND,NOR,NOT,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaAnd.png,AND,OR,NOR,XOR,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaNor.png,NOR,XNOR,OR,NOT,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaNand.png,NAND,Ningunha,AND,XOR,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaXor.png,XOR,XNOR,OR,NAND,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaXnor.png,XNOR,Ningunha,NAND,XOR,dixital
+Que función lóxica se corresponde con esta táboa de verdade?,images/taboaTricky.png,Ningunha,XOR,NOT,AND,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandNot.png,NOT,AND,NAND,IF,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandOr.png,OR,NOR,AND,XOR,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandAnd.png,AND,NOT,XOR,OR,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandNor.png,NOR,NOT,XOR,XNOR,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandXor.png,XOR,XNOR,NOR,AND,dixital
+Que función lóxica se constrúe con este circuíto de portas NAND?,images/nandXnor.png,XNOR,XOR,NOR,NOT,dixital
