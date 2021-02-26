@@ -8,41 +8,68 @@ choice with only one correct answer*/
 function createQuiz() {
   var sheet = SpreadsheetApp.getActiveSheet();
   var data = sheet.getDataRange().getValues();
-//Replace the Id with the one of your Google Form (characters between quotation marks)
-  var form = FormApp.openById('133NE21dD3IENq5WT2jRrXNM4P_u_zp8sau2qZT5D_p8');
-//this line will set the form to be a quiz, remember, if you want to set it to autocorrect, you must set it manually on the form (at this moment)
+  //Replace the Id with the one of your Google Form (characters between quotation marks)
+  var form = FormApp.openById('1xANOphTYx5IckRgS0A-Ws3f4ZVI5eHA4tcffQ55Uxgc');
+  //this line will set the form to be a quiz, remember, if you want to set it to autocorrect, you must set it manually on the form (at this moment)
   form.setIsQuiz(true);
-  
-//this function will sweep across the rows creating the questions  
+
+
+  //this function will sweep across the rows creating the questions  
   for (var i = 1; i < data.length; i++) {
-    if (data[i][1]!=''){
-//This is set to my personal repo. If you want to use another, you must write the complete URL of the image on the 
-//"image" column and delete 'https:// raw...' and only leave 'data[i][1]' inside the brackets
-      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/'+data[i][1]);
+    var numbers = [2, 3];
+    //check if there is an image URL on the second column    
+    if (data[i][1] != '') {
+      //This is set to my personal repo. If you want to use another, you must write the complete URL of the image on the 
+      //"image" column and delete 'https:// raw...' and only leave 'data[i][1]' inside the brackets      
+      var img = UrlFetchApp.fetch('https://raw.githubusercontent.com/procastino/bancosTecno/master/' + data[i][1]);
+      //I worked around the inability to set an image on the question setting a previous image item
+      //with a title that refers to the next question. Replace text on the uncommon case that you don't use Galician      	
       form.addImageItem()
-//I worked around the inability to set an image on the question setting a previous image item
-//with a title that refers to the next question. Replace text on the uncommon case that you don't use Galician
         .setTitle('Imaxe da pregunta de abaixo')
         .setImage(img);
     }
-   
-    var item = form.addMultipleChoiceItem();
-    var numbers = [2,3,4,5];
+    //populate numbers depending on number of choices available
+    for (var j = 4; j < 6; j++) {
+      if (data[i][j] != '') {
+        numbers.push(j)
+      }
+    }
     shuffle(numbers);
-    item.setTitle(data[i][0])
-      .setChoices([
-        item.createChoice(data[i][numbers[0]],numbers[0]==2),
-        item.createChoice(data[i][numbers[1]],numbers[1]==2),
-        item.createChoice(data[i][numbers[2]],numbers[2]==2),
-        item.createChoice(data[i][numbers[3]],numbers[3]==2)
-      ])
-    .setPoints(1)
-    .showOtherOption(false);
-//remember, if you want to set it to autocorrect, you must set it manually on the form (at this moment)
-  }
-}
 
-//this function shuffles the choices so they appear in random order each time the form is created
+    var item = form.addMultipleChoiceItem();
+    //we take title from the first column
+    item.setTitle(data[i][0])
+    //we check in this primitive way how many choices are there for the question and populate
+    if (data[i][4] == '') {
+      item.setChoices([
+        item.createChoice(data[i][numbers[0]], numbers[0] == 2),
+        item.createChoice(data[i][numbers[1]], numbers[1] == 2)
+      ])
+    }
+    else if (data[i][5] == '') {
+      item.setChoices([
+        item.createChoice(data[i][numbers[0]], numbers[0] == 2),
+        item.createChoice(data[i][numbers[1]], numbers[1] == 2),
+        item.createChoice(data[i][numbers[2]], numbers[2] == 2)
+      ])
+
+
+    }
+    else {
+      item.setChoices([
+        item.createChoice(data[i][numbers[0]], numbers[0] == 2),
+        item.createChoice(data[i][numbers[1]], numbers[1] == 2),
+        item.createChoice(data[i][numbers[2]], numbers[2] == 2),
+        item.createChoice(data[i][numbers[3]], numbers[3] == 2)
+      ])
+
+    }
+    item.setPoints(1)
+      .showOtherOption(false);
+
+  }
+
+}
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
 
@@ -61,4 +88,5 @@ function shuffle(array) {
 
   //return array;
 }
+
 
