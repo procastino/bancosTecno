@@ -257,7 +257,7 @@ Cal é certa para o circuíto da figura?,images/analog-thermistorPTC-parallel-LE
 Cal é certa para o circuíto da figura?,images/analog-thermistor-series-LED.png,"A maior temperatura no termistor, menos alumeará o LED","A maior temperatura no termistor, máis intensidade circulará polo circuíto",O circuíto non funcionará a altas temperaturas,A resistencia do termistor será baixa a altas temperaturas,electronica_analoxica
 Que fará o seguinte circuíto?,images/analog-pot-series-LED.png,Movendo o potenciómetro poderei controlar a intensidade que pasa polo LED,"Non funcionará, por non estar conectado o terminal 1",A resistencia entre 1 e 3 variará ao mover o mando do potenciómetro,"O LED sempre alumeará o mesmo, por non estar conectado ao terminal variable",electronica_analoxica
 Cal é falsa para o circuíto da figura?,images/analog-pot-parallel-LED.png,A intensidade que pasa por -a- depende da posición do mando,A resistencia do potenciómetro entre o terminal 1 e o terminal 3 é sempre a mesma,A intensidade que pase polo LED dependerá da posición do potenciómetro,"Nun dos extremos do potenciómetro, o LED debera apagar",electronica_analoxica
-Cal é falsa para o potenciómetro?,images/analog-potentiometer-symbol.png,A resistencia entre 1 e 3 depende da posición do mando,A resistencia entre 1 e 2 depende da posición do mando,A resistencia entre 2 e 3 depende da posición do mando,A resistencia entre 1 e 2 é alta nas posicións nas que a resistencia entre 1 e 2 é baixa,electronica_analoxica
+Cal é falsa para o potenciómetro?,images/analog-potentiometer-symbol.png,A resistencia entre 1 e 3 depende da posición do mando,A resistencia entre 1 e 2 depende da posición do mando,A resistencia entre 2 e 3 depende da posición do mando,A resistencia entre 1 e 2 é alta nas posicións nas que a resistencia entre 2 e 3 é baixa,electronica_analoxica
 Cal é certa para o circuíto da figura?,images/analog-pot-series-LED-tricky.png,Sempre pasará a mesma intensidade polo LED,"Ao mover o mando do potenciómetro, poderei regular a luz do LED","Movendo o mando do potenciómetro, regularei a intensidade polo LED",A voltaxe que cae no potenciómetro variará ao mover o seu mando,electronica_analoxica
 En que aplicación NON atopas un potenciómetro?,,Na roda de sintonizar as canles dunha radio antigua (dial),No mando de volume dun altofalante,No joystick do mando dunha videoconsola,No regulador de intensidade dunha lámpada,electronica_analoxica
 Como lles chamamos ás resistencias variables manualmente?,,Potenciómetros,Resistores,Resistómetros,Mandos,electronica_analoxica
@@ -280,7 +280,7 @@ Cal será o valor óptimo para a resistencia que protexe ao LED?,images/analog-f
 Cal será o valor óptimo para a resistencia que protexe ao LED?,images/analog-findR-led-5V3V320mA.png,85 Ω,415 Ω,340 Ω,non fai falla resistencia,electronica_analoxica
 Cal será o valor óptimo para a resistencia que protexe ao LED?,images/analog-findR-led-3V33V320mA.png,non fai falla resistencia,85 Ω,170 Ω,330 Ω,electronica_analoxica
 Cal será o valor óptimo para a resistencia que protexe ao LED?,images/analog-findR-led-3V33V310mA.png,non fai falla resistencia,85 Ω,"42,5 Ω",64 Ω,electronica_analoxica
-Cal será o valor óptimo para a resistencia que protexe aos LED?,images/analog-findR-2led-12V3v20mA.png,150 Ω,non fai falla resistencia,450 Ω,300 Ω,electronica_analoxica
+Cal será o valor óptimo para a resistencia que protexe aos LED?,analog-findR-2led-12V3v20mA.png,150 Ω,non fai falla resistencia,450 Ω,300 Ω,electronica_analoxica
 Cal será o valor óptimo para a resistencia que protexe aos LED?,images/analog-findR-3led-12V3V20mA.png,150 Ω,non fai falla resistencia,450 Ω,75 Ω,electronica_analoxica
 Cal será o valor óptimo para a resistencia que protexe aos LED?,images/analog-findR-3led-9V3V20mA.png,non fai falla resistencia,300 Ω,150 Ω,450 Ω,electronica_analoxica
 Cal será o valor óptimo para a resistencia que protexe aos LED?,images/analog-findR-2led-6V2V10ma.png,200 Ω,non fai falla resistencia,"0,2 Ω",400 Ω,electronica_analoxica
@@ -298,4 +298,26 @@ Como se chama o material que separa as dúas capas dun condensador?,,Dieléctric
 Cal condensador tardará máis en descargarse?,images/analog-capacitors-timeDischargeR.png,O do circuíto -d-,O do circuíto -a-,O do circuíto -b-,O do circuíto -c-,electronica_analoxica
 Cal condensador tardará menos en descargarse?,images/analog-capacitor-timeDischargeC.png,O do circuíto -d-,O do circuíto -a-,O do circuíto -b-,O do circuíto -c-,electronica_analoxica
 Cal condensador tardará máis en descargarse?,images/analog-capacitor-timeDischargeCR.png,O do circuíto -c-,O do circuíto -a-,O do circuíto -b-,O do circuíto -d-,electronica_analoxica
+Cal condensador tardará menos en descargarse?,images/analog-capacitorDischarge-less.png,O do circuíto -a-,O do circuíto -b-,O do circuíto -d-,O do circuíto -c-,electronica_analoxica
 Cal é a capacidade total deste circuíto?,images/analog-capacitors-parallel.png,10 uF,6 uF,"2,4 uF",24 uF,electronica_analoxica
+Cal non é unha resistencia?,,LED,LDR,Potenciómetro,Termistor,electronica_analoxica
+Cal frase é máis correcta?,,Os fundamentos da electrónica son os mesmos que os da electricidade,A electrónica ten maior importancia no mundo que a electricidade,A electricidade e a electrónica son o mesmo.,A electrónica é a rama da electricidade que traballa con intensidades máis elevadas,electronica_analoxica
+En que ano se inventou o transistor?,,1948,1938,1928,1918,electronica_analoxica
+En que ano se inventou o transistor?,,1948,1968,1958,1938,electronica_analoxica
+Cando se inventou o transistor?,,Nos anos 40 do século XX,Nos anos 20 do século XX,Nos anos 60 do século XX,Nos anos 80 do século XX,electronica_analoxica
+O transistor foi inventado por un equipo liderado por...,,William Shockley,Mick Jagger,John Lennon,Bob Dylan,electronica_analoxica
+O transistor foi inventado por un equipo liderado por...,,William Shockley,Thomas Edison,Guillermo Marconi,Bill Gates,electronica_analoxica
+O compoñente esencial da informática e da comunicación é...,,O transistor,A resistencia,O condensador,O amplificador,electronica_analoxica
+Os dous tipos de transistores que estudamos son os...,,NPN e PNP,PN e NP,PPN e NPP,NN e PP,electronica_analoxica
+Cal dos seguintes é un transistor NPN?,images/analog-transistor-npnDiff.png,O 2,O 1,O 3,O 4,electronica_analoxica
+Cal dos seguintes é un transistor PNP?,images/analog-transistor-pnpDiff.png,O 4,O 1,O 2,O 3,electronica_analoxica
+Como se chama o estado dun transistor no que non deixa pasar corrente de colector a emisor?,,Corte,Saturación,Activa,Interrupción,electronica_analoxica
+Como se chama o estado dun transistor no que a corrente de colector a emisor é a máxima posible?,,Saturación,Máximo,Activa,Corte,electronica_analoxica
+Como se chama o estado dun transistor no que a corrente de colector a emisor varía proporcionalmente á corrente de base?,,Activa,Amplificación,Corte,Saturación,electronica_analoxica
+Cales son os estados ou fases dun transistor?,,"Saturación, Corte e Activa","Emisión, Amplificación e Transmisión",Saturación e corte,"Pechado, aberto e inestable",electronica_analoxica
+"Se un transistor está en saturación e aumenta a corrente de base, que pasará coa corrente entre colector e emisor?",,Non variará,Aumentará,Diminuirá,Pasará ao estado de corte e a corrente deixará de pasar,electronica_analoxica
+Cal non se corresponde necesariamente cun robot?,,Ten que ter olliños,Ten que ser programable,Ten que ter movemento,Ten que ter unha parte electrónica,robótica
+Como se chaman os compoñentes que detectan o estado do entorno no que se atopa o robot?,,Sensores,Controladores,Drivers,Detectores,robótica
+Como se chama o compoñente programable do robot?,,Microcontrolador,Memoria,Software,Arduino,robótica
+"Cal é a ""marca"" de microcontrolador que imos empregar?",,Arduino,Intel,AMD,Python,robótica
+Que é un driver ou controladora de motores?,,Un circuíto que permite manexar motores con sinais de baixa intensidade,Un circuíto que fai que os motores poidan xirar nos dous sentidos,Un circuíto que mellora a precisión e velocidade dos motores.,Un circuíto que leva os programas específicos para o control dos motores,robótica
