@@ -1,0 +1,512 @@
+
+Category: Electricity
+Title: electricidad
+Author: Tucho Méndez
+Show_max: 0
+
+---
+
+
+- Question: "¿Que quiere decir que la electricidad es un fenómeno natural?"
+  Image: ""
+  Choices:
+    - "Que no ha sido inventada"
+    - "Que se inventó hace muchísimo tiempo"
+    - "Que no se puede generar artificialmente"
+    - "Que es ecológica"
+
+- Question: "La electricidad y el magnetismo son 2 ____________ del mismo fenómeno, el electromagnetismo"
+  Image: ""
+  Choices:
+    - "Manifestaciones"
+    - "Efectos"
+    - "Fuerzas"
+    - "Magnitudes"
+
+- Question: "La palabra electricidad viene del griego elektron, que significa..."
+  Image: ""
+  Choices:
+    - "ámbar"
+    - "electricidad"
+    - "imán"
+    - "relámpago"
+
+- Question: "Como se llamaba el griego que le dio nombre a la electricidad?"
+  Image: ""
+  Choices:
+    - "Tales"
+    - "Pitágoras"
+    - "Theodorakis"
+    - "Aristóteles"
+
+- Question: "¿Cuándo se le puso nombre a la electricidad y comenzaron a estudiarse sus efectos?"
+  Image: ""
+  Choices:
+    - "Alrededor del año 600 AC, con la civilización griega"
+    - "A finales del XVIII, con la revolución científica"
+    - "A finales del siglo XIX, con la lámpara eléctrica"
+    - "En el siglo XV, con la pila de Volta"
+
+- Question: "¿Cuándo decimos que comienza el uso comercial de la electricidad?"
+  Image: ""
+  Choices:
+    - "A finales del siglo XIX, con la lámpara eléctrica"
+    - "En la antigua Grecia"
+    - "Con la Revolución Científica, a finales del siglo XVIII"
+    - "A mediados del siglo XX, con la invención del transistor"
+
+- Question: "La experimentación científica con la electricidad comenzó, aproximadamente..."
+  Image: ""
+  Choices:
+    - "La finales del siglo  XVIII"
+    - "La finales del siglo  XIX"
+    - "A principios del siglo  XX"
+    - "La finales del siglo  XVII"
+
+- Question: "¿Qué hecho histórico coincidió en el tiempo, aproximadamente, con el comienzo de la experimentación científica con la electricidad?"
+  Image: ""
+  Choices:
+    - "La Revolución Francesa"
+    - "El Descubrimiento de América"
+    - "La llegada del hombre a la Luna"
+    - "La fundación del Imperio Romano"
+
+- Question: "¿Cuál no pertenece a la época de la revolución científica?"
+  Image: ""
+  Choices:
+    - "Edison"
+    - "Galvani"
+    - "Volta"
+    - "Faraday"
+
+- Question: "¿Con qué descubrimiento decimos que comenzó el uso de la electricidad de manera comercial"
+  Image: ""
+  Choices:
+    - "La lámpara eléctrica"
+    - "La pila de Volta"
+    - "El ámbar  frotado contra algún tejido"
+    - "El transistor"
+
+- Question: "La implantación y desarrollo comercial de la electricidad comenzaron con la lámpara eléctrica..."
+  Image: ""
+  Choices:
+    - "A finales del siglo  XIX"
+    - "A comienzos del siglo  XX"
+    - "A mediados del siglo  XX"
+    - "A comienzos del siglo  XIX"
+
+- Question: "La era de la información y la comunicación también se desarrolla sobre la electricidad y el componente fundamental sobre el que se asienta es..."
+  Image: ""
+  Choices:
+    - "El transistor"
+    - "La lámpara eléctrica"
+    - "El  electroimán"
+    - "El relé"
+
+- Question: "¿Cuándo está cargado un cuerpo?"
+  Image: ""
+  Choices:
+    - "cuando tiene más cargas de un signo que de otro"
+    - "cuando tiene igual número de cargas positivas y negativas"
+    - "cuando tiene más cargas positivas que negativas"
+    - "cuando tiene más cargas negativas que positivas"
+
+- Question: "¿Cuándo decimos que un cuerpo está cargado?"
+  Image: ""
+  Choices:
+    - "Cuando tiene más electrones que protones, o al revés"
+    - "Cuando tiene todas las cargas"
+    - "Cuando tiene más cargas de signo positivo que de signo negativo"
+    - "Cuando tiene más cargas de signo negativo que de signo positivo"
+
+- Question: "¿Cuál es la unidad de carga eléctrica?"
+  Image: ""
+  Choices:
+    - "El  Coulomb"
+    - "El Vatio"
+    - "El  Joule"
+    - "El  Amperio"
+
+- Question: "¿A cuánto equivale un Coulomb?"
+  Image: ""
+  Choices:
+    - "6,2 x 10e18 electrones"
+    - "6,2 x 10e12 electrones"
+    - "6,2 x 10e6 electrones"
+    - "6,2 x 10e3 electrones"
+
+- Question: "¿Qué partículas del átomo están cargadas?"
+  Image: ""
+  Choices:
+    - "los electrones, negativamente, y los protones, positivamente"
+    - "los electrones, negativamente, y los neutrones, positivamente"
+    - "los protones, positivamente, y los neutrones, negativamente"
+    - "los electrones, positivamente, y los protones, negativamente"
+
+- Question: "¿Qué es una corriente eléctrica?"
+  Image: ""
+  Choices:
+    - "Un flujo de electrones a través de un medio"
+    - "Un flujo de protones a través de un medio"
+    - "Un conjunto de electrones en movimiento"
+    - "Un desplazamiento de cualquier tipo de partículas eléctricas"
+
+- Question: "¿Qué NO es una corriente eléctrica?"
+  Image: ""
+  Choices:
+    - "Un conjunto de electrones almacenados en un punto determinado"
+    - "Electrones moviéndose a través de un conductor"
+    - "Electrones que van de un polo a otro de un circuito"
+    - "Un flujo eléctrico a través de un medio"
+
+- Question: "¿Cuál es un material conductor"
+  Image: ""
+  Choices:
+    - "El aluminio"
+    - "El agua destilada"
+    - "El aire"
+    - "El plástico"
+
+- Question: "¿Cuál es un material aislante?"
+  Image: ""
+  Choices:
+    - "El agua destilada"
+    - "El cobre"
+    - "El grafito"
+    - "El agua salada"
+
+- Question: "¿Cuál de estos es un material aislante?"
+  Image: ""
+  Choices:
+    - "El vidrio"
+    - "El agua con sal"
+    - "El aluminio"
+    - "El grafito"
+
+- Question: "¿Cuál de estos es un material aislante?"
+  Image: ""
+  Choices:
+    - "El plástico"
+    - "El agua con sal"
+    - "El aluminio"
+    - "El grafito"
+
+- Question: "Un material aislante presentará..."
+  Image: ""
+  Choices:
+    - "Una resistencia muy alta"
+    - "Una resistencia muy baja"
+    - "Una conductividad muy baja"
+    - "Una corriente muy baja"
+
+- Question: "Un material conductor presentará..."
+  Image: ""
+  Choices:
+    - "Una resistencia muy baja"
+    - "Una resistencia muy alta"
+    - "Una conductividad muy baja"
+    - "Una corriente muy alta"
+
+- Question: "Un material conductor presentará.."
+  Image: ""
+  Choices:
+    - "Una resistencia muy baja"
+    - "Una resistencia muy alta"
+    - "Una oposición alta al paso de la corriente"
+    - "Una mala conductividad"
+
+- Question: "¿Qué fenómeno decimos que es otra expresión de la electricidad?"
+  Image: ""
+  Choices:
+    - "El magnetismo"
+    - "El calor"
+    - "La luz"
+    - "El movimiento"
+
+- Question: "¿Cuál de los siguientes dispositivos eléctricos NO produce ningún movimiento?"
+  Image: ""
+  Choices:
+    - "Un LED"
+    - "Un motor"
+    - "Un altavoz"
+    - "Un actuador lineal"
+
+- Question: "Un motor eléctrico por el que pasa una corriente produce..."
+  Image: ""
+  Choices:
+    - "Movimiento y calor"
+    - "Movimiento"
+    - "Calor"
+    - "Electromagnetismo"
+
+- Question: "Los efectos de la corriente eléctrica que nombramos son:"
+  Image: ""
+  Choices:
+    - "Luz, calor, movimiento y sonido"
+    - "Electromagnetismo, luz, calor y movimiento"
+    - " Electroluminiscencia, calor, movimiento y sonido"
+    - "Energía, movimiento, calor y sonido"
+
+- Question: "Siempre que hay una corriente eléctrica, se produce..."
+  Image: ""
+  Choices:
+    - "Calor"
+    - "Resistencia eléctrica"
+    - "Voltaje"
+    - "Carga eléctrica"
+
+- Question: "¿Cuál no se corresponde con la corriente continua?"
+  Image: ""
+  Choices:
+    - "solemos manejar grandes voltajes con ella"
+    - "siempre tiene el mismo sentido"
+    - "es la que proporcionan las baterías y pilas"
+    - "podemos obtenerla de adaptadores de red"
+
+- Question: "¿Cuál NO se corresponde con la corriente alterna?"
+  Image: ""
+  Choices:
+    - "Es la que nos dan las pilas y baterías"
+    - "Cambia continuamente de sentido"
+    - "Es la que viene de la red, es decir, de los enchufes"
+    - "Solemos manejar voltajes mayores que con la corriente continua"
+
+- Question: "¿Qué aparato funciona con Corriente Alterna?"
+  Image: ""
+  Choices:
+    - "Lavadora"
+    - "Ordenador"
+    - "Reloj digital"
+    - "Teléfono móvil"
+
+- Question: "¿Cuál de estos aparatos funciona con corriente continua?"
+  Image: ""
+  Choices:
+    - "Un teléfono móvil"
+    - "Un secador del pelo"
+    - "Una impresora"
+    - "Una lavadora"
+
+- Question: "¿Cuál NO se corresponde con la corriente alterna?"
+  Image: ""
+  Choices:
+    - "Solemos manejar voltajes menores que con la corriente continua"
+    - "Cambia continuamente de sentido"
+    - "La podemos obtener de la red, es decir, en los enchufes"
+    - "Podemos obtenerla a partir de corriente continua gracias a un adaptador"
+
+- Question: "¿Cuál NO se corresponde con la corriente continua?"
+  Image: ""
+  Choices:
+    - "Solemos manejar grandes voltajes con ella"
+    - "Siempre tiene el mismo sentido"
+    - "Es la que nos dan las pilas y baterías"
+    - "La podemos obtener de la red gracias a los adaptadores de corriente"
+
+- Question: "¿Qué nos indica el Voltaje de un generador?"
+  Image: ""
+  Choices:
+    - "La energía que nos puede proporcionar cada unidad de carga"
+    - "La oposición que este ejercerá frente al corriente que lo atraviesa"
+    - "Que cantidad de electrones nos dará en una unidad de tiempo"
+    - "La energía que nos proporcionará ese generador por unidad de tiempo"
+
+- Question: "¿Qué nos indica el voltaje de una pila?"
+  Image: ""
+  Choices:
+    - "La energía que nos podrá proporcionar cada unidad de carga de esa pila"
+    - "La cantidad de electrones por segundo que podrán salir de esa pila"
+    - "La potencia eléctrica que desarrollará esa pila en un circuito eléctrico"
+    - "La cantidad de electrones que hay almacenados en esa pila, es decir, su carga."
+
+- Question: "¿Cuál frase estaría bien expresada?"
+  Image: ""
+  Choices:
+    - "Por favor, mide la intensidad que pasa por ese cable"
+    - "Por favor, mide el voltaje que pasa por ese cable"
+    - "Por favor, mide la resistencia que pasa por ese cable"
+    - "Por favor, mide la potencia que pasa por ese cable"
+
+- Question: "¿Qué es la Intensidad de una corriente?"
+  Image: ""
+  Choices:
+    - "La cantidad de electrones que pasan por un punto en un tiempo determinado"
+    - "La energía de esa corriente"
+    - "La oposición que presenta un material a ser atravesado por los electrones"
+    - "La energía producida por los electrones al atravesar un componente determinado"
+
+- Question: "Sí por un circuito pasan 5 000 000  electrones en 1 segundo, ¿qué  intensidad estará pasando?"
+  Image: ""
+  Choices:
+    - "Mucho menos de un  amperio"
+    - "Muchísimos  amperios"
+    - "Pocos  amperios"
+    - "Un  amperio"
+
+- Question: "Si por un circuito pasa un  amperio, cuantos electrones estarán circulando por él?"
+  Image: ""
+  Choices:
+    - "Trillones cada segundo"
+    - "Miles"
+    - "Millones"
+    - "Trillones"
+
+- Question: "¿Qué es la Resistencia de un elemento?"
+  Image: ""
+  Choices:
+    - "La oposición que presenta un cuerpo a ser atravesado por los electrones"
+    - "Un indicador de la facilidad con la que la corriente atraviesa un cuerpo"
+    - "La cantidad de calor que genera un componente al ser atravesado por la corriente eléctrica"
+    - "La energía eléctrica que pierde un componente en un circuito al ser atravesado por una corriente"
+
+- Question: "¿Cuál de estas es una expresión CORRECTA de la Ley de  Ohm?"
+  Image: ""
+  Choices:
+    - "R=V/I"
+    - "R=I/V"
+    - "R=V·I"
+    - "R.V=I"
+
+- Question: "¿Cuál de las siguientes sería una expresión incorrecta de la ley de  Ohm?"
+  Image: ""
+  Choices:
+    - "R=I.V"
+    - "I=V/ R"
+    - "I. R=V"
+    - "R=V/I"
+
+- Question: "Tienes un circuito conectado a un voltaje de 20V por el que ves que pasa una corriente de 10A. ¿Cuál es la resistencia que tiene ese circuito?"
+  Image: ""
+  Choices:
+    - "2Ω"
+    - "200Ω"
+    - "0,5Ω"
+    - "1Ω"
+
+- Question: "Conecto una resistencia de 100Ω en un circuito con una pila de 9V. ¿Qué intensidad circula?"
+  Image: ""
+  Choices:
+    - "0,09A"
+    - "900A"
+    - "0,9A"
+    - "11,11A"
+
+- Question: "Tienes un circuito con una resistencia de 4Ω conectado a una pila de 8V. ¿Qué intensidad circulará?"
+  Image: ""
+  Choices:
+    - "2A"
+    - "32A"
+    - "0,5A"
+    - "12A"
+
+- Question: "Compruebo que la intensidad que circula por un circuito es de 2 La y veo que está alimentado a 6V. Que resistencia hay en el circuito?"
+  Image: ""
+  Choices:
+    - "3Ω"
+    - "12Ω"
+    - "0,33Ω"
+    - "2/6Ω"
+
+- Question: "Tienes un circuito de resistencia de 3Ω por el que pasa una intensidad de 9A. A que voltaje estará conectado ese circuito?"
+  Image: ""
+  Choices:
+    - "27V"
+    - "0,33V"
+    - "3V"
+    - "12V"
+
+- Question: "En un circuito con una resistencia de 100Ω compruebo que la intensidad es de 0,5A. ¿Cuál es el voltaje?"
+  Image: ""
+  Choices:
+    - "50V"
+    - "200V"
+    - "5V"
+    - "0,005V"
+
+- Question: "Tienes un circuito con un voltaje determinado conectado a una resistencia. Sustituyes esa resistencia por una de mayor valor, ¿qué va a pasar en el circuito?"
+  Image: ""
+  Choices:
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo, será menor"
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo, aumentará"
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo no se verá afectada"
+    - "La intensidad que pasa por la resistencia será mayor"
+
+- Question: "Tienes un circuito con un voltaje determinado conectado a una resistencia. Sustituyes esa resistencia por una de menor valor, ¿qué va a pasar?"
+  Image: ""
+  Choices:
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo, aumentará"
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo, disminuirá"
+    - "La cantidad de electrones que van a pasar por la resistencia cada unidad de tiempo no se verá afectada"
+    - "La intensidad que pasa por la resistencia será más pequeña"
+
+- Question: "Estás midiendo la intensidad que pasa por una resistencia que no varía.  En un momento determinado, observas que el valor de la intensidad reduce a la mitad. Que habrá pasado?"
+  Image: ""
+  Choices:
+    - "El voltaje del circuito se redujo, también, a la mitad"
+    - "El voltaje del circuito se duplicó"
+    - "No se puede saber sin conocer el voltaje a la que está conectado el circuito"
+    - "La cantidad de electrones que pasan por el circuito está aumentando por algún motivo"
+
+- Question: "Estás midiendo la intensidad que pasa por una resistencia que no varía.  En un momento determinado, observas que el valor de la intensidad se duplica. Que habrá pasado?"
+  Image: ""
+  Choices:
+    - "El voltaje del circuito se duplicó también"
+    - "El voltaje del circuito se redujo la mitad"
+    - "No se puede saber sin conocer el voltaje a la que está conectado el circuito"
+    - "La cantidad de electrones que pasan por el circuito está reduciéndose por algún motivo"
+
+- Question: "¿Qué potencia eléctrica generará un componente que funcione a 3V y 2A?"
+  Image: ""
+  Choices:
+    - "6W"
+    - "5W"
+    - "1,5W"
+    - "0,67W"
+
+- Question: "¿Qué calor nos dará un circuito durante 10 segundos, si el voltaje es de 9 V y la intensidad de 2A?"
+  Image: ""
+  Choices:
+    - "180J"
+    - "1,8J"
+    - "45J"
+    - "4,5J"
+
+- Question: "Un circuito que consume una potencia de 10  W funciona durante 5 segundos. ¿Qué energía consumió en ese tiempo?"
+  Image: ""
+  Choices:
+    - "50J"
+    - "2J"
+    - "10J"
+    - "0,5J"
+
+- Question: "¿Cuál es la carga de un átomo en su estado natural?"
+  Image: ""
+  Choices:
+    - "neutra"
+    - "positiva"
+    - "negativa"
+    - "depende del átomo"
+
+- Question: "¿Cuál es la unidad elemental de Voltaje?"
+  Image: ""
+  Choices:
+    - "El  Voltio (V)"
+    - "El  Ohmnio (Ω)"
+    - "El  Amperio (A)"
+    - "El Vatio ( W)"
+
+- Question: "¿Cuál es la unidad elemental de Intensidad?"
+  Image: ""
+  Choices:
+    - "El  Amperio (A)"
+    - "El  Ohmnio (Ω)"
+    - "El  Voltio (V)"
+    - "El Vatio ( W)"
+
+- Question: "¿Cuál es la unidad elemental de Resistencia?"
+  Image: ""
+  Choices:
+    - "El  Ohmnio (Ω)"
+    - "El  Voltio (V)"
+    - "El  Amperio (A)"
+    - "El Vatio ( W)"
