@@ -359,6 +359,10 @@ Este circuíto acende o LED cando toco entre -a- e -b- co meu dedo. Cal é falsa
 Que pasará se xunto os terminais -a- e -b- cun cable?,images/analog-transistor-fingerTouch.png,A corrente que chegará pola base será moi alta e poderá queimar o transistor,"Nada, funcionará como cando toco co dedo.", ,,electronica_analoxica
 "Cal está ben expresada, para este circuíto?",images/analog-transistor-fingerTouch.png,"Cando toco os terminais, polo meu dedo pasa unha pequena corrente que pon o transistor en activa e o LED acende.","Cando toco os terminais, polo meu dedo pasa a corrente que acende o LED","Cando toco os terminais, a corrente que pasa polo meu dedo acende o transistor.","Cando toco os terminais, o LED recibe do transistor a corrente que precisa para acender.",electronica_analoxica
 Cal é falsa para os circuítos integrados?,,Son caros e complexos de manexar,"""Conteñen"" distintos compoñentes electrónicos",Están construídos con materiais semicondutores,No seu interior hai un circuíto electrónico,electronica_analoxica
+Cal será o pin 1 deste integrado?,images/analog-IC-pin1Position.png,"O pin ""a""","O pin ""b""","O pin ""c""","O pin ""d""",electronica_analoxica
+Cal será o pin 1 deste integrado?,images/analog-IC-pin1PositionTricky.png,"O pin ""d""","O pin ""b""","O pin ""c""","O pin ""a""",electronica_analoxica
+Cal será o pin 4 deste integrado?,images/analog-IC-pin4Position.png,"O pin ""d""","O pin ""a""","O pin ""c""","O pin ""b""",electronica_analoxica
+Cal será o pin 8 deste integrado?,images/analog-IC-pin8Position.png,"O pin ""c""","O pin ""a""","O pin ""d""","O pin ""b""",electronica_analoxica
 Como se chama o circuíto integrado que empregamos nas prácticas?,,555,74HC00,74HC55,LM741,electronica_analoxica
 "As patillas de terra, positivo e saída dun 555 son...",,"terra - 1, positivo - 8 e saída - 3","terra - 8, positivo - 1 e saída - 3","terra - 3, positivo - 1 e saída - 8","terra - 1, positivo - 3 e saída - 8",electronica_analoxica
 Que función ten o integrado 555?,,Temporizador,Astable,Interruptor,Acende e apaga un led,electronica_analoxica
