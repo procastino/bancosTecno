@@ -76,7 +76,7 @@ Como se chaman os elementos dun circuíto que transforman a electricidade noutro
 Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?,,Condutores,Xeradores,Elementos de control,Receptores,circuítos
 Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?,,Elementos de control,Xeradores,Condutores,Receptores,circuítos
 Cal non é un xerador?,,Motor,Pila,Batería,Toma de rede,circuítos
-Cal consideramos un condutor?,,Cable,Interruptor,Pulsador,Aluminio,circuítos
+"Cal consideramos un compoñente de tipo ""condutor""?",,Cable,Interruptor,Pulsador,Aluminio,circuítos
 Cal non sería un receptor?,,Pila,Motor,Lámpada,Resistencia,circuítos
 Cal non é un elemento de control?,,Cable,Interruptor,Pulsador,Conmutador,circuítos
 A que compoñente se corresponde o símbolo da figura?,images/pilaSimbolo.png,Batería ou pila,Xerador de corrente alterna,Motor,Toma de terra,circuítos
@@ -124,7 +124,7 @@ Para que poderías empregar o circuíto da figura?,images/2IntSerieMotor.png,Unh
 Cal é certa para o circuíto da figura?,images/2IntSerieTricky.png,Só pasará corrente pola resistencia con 1 e 2 cerrados,Se cerro o interruptor 1 pasará corrente pola resistencia,Se cerro o interruptor 2 pasará corrente pola resistencia,"Se cerro calquera dos dous interruptores, pasará corrente",circuítos
 Cando pasará corrente pola resistencia?,images/2IntMixtoTricky.png,Só se 2 está cerrado e 1 abert,Se cerramos 1 e 2,"Cerrando o 2, independentemente de como estea 1",Cerrando o 2 ou o 1,circuítos
 Como están conectadas as resistencias na breadboard?,images/brboardSerieParalelo01.png,"1 en paralelo, 2 en serie",As dúas en serie,As dúas en paralelo,"1 en serie, 2 en paralelo",circuítos
-Como están conectadas as resistencias na breadboard?,images/brboardSerieParalelo02.png,As dúas en serie,"1 en serie, 2 en paralelo","1 en paralelo, 2 en serie",As dúas en paralelo,circuítos
+Como están conectadas as resistencias na breadboard?,images/brboardSerieParalelo02.png,As dúas en serie,"5 en serie, 6 en paralelo","5 en paralelo, 6 en serie",As dúas en paralelo,circuítos
 Por que resistencias pasará corrente?,images/brboardBenConectadas01.png,Por 1 e 2,Por todas,Por 2 e 3,Por ningunha,circuítos
 Que montaxes se corresponden co esquema?,images/brboardResisCircuito.png,1,2,3,ningún,circuítos
 Cal é falsa para o circuíto da figura?,images/2Int3leds.png,Podo acender -c- sen acender -a- e -b-,"Co interruptor 1 aberto, non acenderá nada",O interruptor 1 acende -a- e -b-,"Cos dous interruptores premidos, acenden todos os leds",circuítos
@@ -144,6 +144,7 @@ Por que circuíto circulará máis corrente?,images/leiOhmSameRes.png,Polo 2,Pol
 Por que circuíto circulará máis corrente?,images/leiOhmSameVoltDecimalOhm.png,Polo 3,Polo 2,Polo 1,Polo 4,circuítos
 Por que circuíto circulará máis corrente?,images/leiOhmSameVoltKohm.png,Polo 2,Polo 1,Polo 3,Polo 4,circuítos
 Por que circuíto circulará máis corrente?,images/leiOhmDifVoltDifRes.png,Polo 4,Polo 1,Polo 2,Polo 3,circuítos
+Por que resistencia circulará máis intensidade?,images/3ResisSerie246.png,Por todas pasa a mesma,Pola -b-,Pola -c-,Pola -a-,circuítos
 Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?,images/2ResisParaleloTricky44.png,A intensidade total do circuíto aumentará,A voltaxe á que está sometida -a- disminuirá,A intensidade total do circuíto disminuirá,A intensidade total do circuíto non variará,circuítos
 Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?,images/2ResisParaleloTricky44.png,Por -b- pasará a mesma intensidade que por -a-,A voltaxe de -a- será a metade que antes,A resistencia equivalente no circuíto será de 4Ω,A intensidade total do circuíto non variará,circuítos
 "Partimos do circuíto negro. Se conectamos a parte en verde, cal será falsa?",images/2ResisParaleloTricky44.png,A intensidade total disminuirá,Por -b- pasará unha itensidade igual á que pasa por -a-,A voltaxe de -b- será a mesma que a de -a-,A intensidade que pasa por -a- non variará,circuítos
@@ -390,3 +391,18 @@ Como se chaman os compoñentes que detectan o estado do entorno no que se atopa 
 Como se chama o compoñente programable do robot?,,Microcontrolador,Memoria,Software,Arduino,robótica
 "Cal é a ""marca"" de microcontrolador que imos empregar?",,Arduino,Intel,AMD,Python,robótica
 Que é un driver ou controladora de motores?,,Un circuíto que permite manexar motores con sinais de baixa intensidade,Un circuíto que fai que os motores poidan xirar nos dous sentidos,Un circuíto que mellora a precisión e velocidade dos motores.,Un circuíto que leva os programas específicos para o control dos motores,robótica
+Que significan as iniciais MCU?,,Unidade de Micro Controlador,Unidade de Macro Controlador,Micro Controladora Unificada,Micro Controlador Universal,robótica
+Cal é falsa?,,As saídas dixitais poden ter calquera valor entre 0 e 1023,Os pines dixitais poden ser entradas,Os pines dixitais poden ser saídas,"O modo de funcionamento dun pin dixital se establece con ""pinMode""",robótica
+Cal é certa?,,O MCU non pode manexar intensidades altas de corrente,O driver de motores envía ordes á MCU,O MCU se conecta directamente aos motores,Os motores funcionan con intensidades de corrente baixas,robótica
+Cal é o conxunto de instrucións que van dicir como se comporta un robot?,,O programa,O procesador,A MCU,No USB,robótica
+Cal é certa para un driver de motores?,,Recibe ordes da MCU para manexar o motor,Detecta a cor do chan nun segueliñas,Recibe ordes dos motores para falar coa MCU,Envía ordes con baixa intensidade cara aos motores,robótica
+"Cantas veces se executan as instrucións dentro de ""void setup()""?",,Unha vez,En bucle,Depende do programa,Cantas veces sexa preciso,robótica
+"Cantas veces se executan as instrucións dentro de ""void loop()""?",,En bucle,Unha vez,Depende do programa,Cantas veces sexa preciso,robótica
+"Que fai a liña ""pinMode(led1,OUTPUT);""?",,"Dille que ""led1"" vai ser unha saída","Dille que ""led1"" vai ser unha entrada","Fai que ""led1"" acenda","Fai que ""led1"" apague",robótica
+"Que fai a liña ""int sensorValue = analogRead(A0);""?",,"Le o valor en A0 e o garda como ""sensorValue""",Dille que A0 vai ser unha entrada de lectura analóxica,Dille que acenda o que estexa conectado no pin analóxico A0,Le o valor dun Sensor e o manda ao pin A0,robótica
+"Que fai a instrución ""digitalWrite(led1,HIGH);""?",,Pon o pin led1 en voltaxe alta,Pon o pin led1 como saída,Le o valor do pin led1 se está aceso,Escribe unha entrada ou unha saída dixital no led1,robótica
+"Que fai a instrución ""int led = 7""?",,Crea a variable led e lle asigna o valor 7,Define a intensidade coa que acenderá o led,Conecta un led no pin 7,Comproba se o valor da variable led é igual a 7,robótica
+"Cal é certa respecto á instrución ""Serial.begin(9600)""",,Permite que poidamos empregar o porto serie,Fará que polo porto serie apareza o valor 9600,Fará que o programa se deteña durante 9600 milisegundos,Executarase en bucle cada 9600 milisegundos,robótica
+"Que fai a instrución ""delay(1000)""?",,Fai que o programa se deteña durante 1 segundo,Fai que o programa se deteña durante 1000 segundos,Fai que un led se acenda durante 1 segundo,Fai que a velocidade de execución do programa se incremente en 1000,robótica
+"Que instrución empregarías para que aparecese no monitor serie o valor da variable ""sensorValue""?",,Serial.println(sensorValue),Serial.begin(sensorValue),Serial(sensorValue),print(sensorValue),robótica
+"Cal é certa, para o seguinte bloque de código?",images/robotics_arduinoIfElse.png,O led acenderá se sensorValue é maior de 900,O led acenderá se sensorValue é menor de 900,O led estará sempre aceso,O led apagará se sensorValue é maior de 900,robótica
