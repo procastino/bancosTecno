@@ -406,7 +406,6 @@ Cal é certa para un driver de motores?,,Recibe ordes da MCU para manexar o moto
 "Que fai a instrución ""delay(1000)""?",,Fai que o programa se deteña durante 1 segundo,Fai que o programa se deteña durante 1000 segundos,Fai que un led se acenda durante 1 segundo,Fai que a velocidade de execución do programa se incremente en 1000,robótica
 "Que instrución empregarías para que aparecese no monitor serie o valor da variable ""sensorValue""?",,Serial.println(sensorValue),Serial.begin(sensorValue),Serial(sensorValue),print(sensorValue),robótica
 "Cal é certa, para o seguinte bloque de código?",images/robotics_arduinoIfElse.png,O led acenderá se sensorValue é maior de 900,O led acenderá se sensorValue é menor de 900,O led estará sempre aceso,O led apagará se sensorValue é maior de 900,robótica
-A que escala pode estar representado este coche?,images/drawing_escalaCoche.png,1:48,48:1,1:1,48:48,debuxo
 Esta porca mide 10 cm. Canto medirá o seu debuxo a escala 1:10?,images/scales_nutBlueprint.png,1 cm,100 cm,20 cm,10 cm,debuxo
 "Se esta porca mide 6 cm e a debuxo a escala 3:1, canto medirá o seu debuxo?",images/scales_nutBlueprint.png,18 cm,2 cm,"0,5 cm",30 cm,debuxo
 Esta porca mide 28 cm e a debuxo a escala 1:2. Canto medirá o debuxo?,images/scales_nutBlueprint.png,14 cm,56 cm,28 cm,20 cm,debuxo
@@ -418,10 +417,16 @@ O debuxo do parafuso mide 20 mm de longo e está feito a escala 4:1. Canto medí
 Este engrenaxe mide 20 cm de diámetro. Canto medirá o seu debuxo a escala 1:4?,images/scales_gearPicture.jpg,5 cm,8 cm,80 cm,20 cm,debuxo
 Este conector está debuxado a escala 1:2. Canto medirá de longo o obxecto real?,images/scales_miniJackBlueprint.png,52 mm,104 mm,26 mm,faltan datos,debuxo
 Esta roda ten un diámetro de 20 cm. Canto medirá debuxada a escala 1:2?,images/scales_wheelPicture.png,10 cm,5 cm,40 cm,20 cm,debuxo
-Esta roda ten un diámetro de 4 cm. Canto medirá debuxada a escala 2:1?,images/scales_wheelPicture.png,8 cm,2 cm,4 cm,40 cm,debuxo
+Esta roda ten un diámetro de 4 cm. Canto medirá no debuxo a escala 2:1?,images/scales_wheelPicture.png,8 cm,2 cm,4 cm,40 cm,debuxo
 Este debuxo está a escala 1:10 e a distancia acoutada mide 4 cm. Canto medirá a roda real?,images/scales_wheelPicture.png,40 cm,"0,4 cm",14 cm,24 cm,debuxo
 Este debuxo está a escala 4:1 e mide 24 cm. Canto medirá a roda real?,images/scales_wheelPicture.png,6 cm,60 cm,96 cm,16 cm,debuxo
 Este debuxo está a escala 2:1. Canto medirá a roda real?,images/scales_wheelPictureLong.png,32 cm,16 cm,64 cm,320 cm,debuxo
+Esta engrenaxe mide 20 cm de diámetro. Canto medirá o seu debuxo a escala 1:2?,images/scales_gearPicture.jpg,10 cm,20 cm,40 cm,5 cm,debuxo
+"Mido o debuxo desta porca e me dá 8 cm. Se está debuxada a escala 2:1, canto medía a porca?",images/scales_boltBlueprint.png,4 cm,8 cm,16 cm,2 cm,debuxo
+Este interruptor mide 12 mm de longo. Quero debuxalo a escala e que o debuxo mida 120 mm. A que escala o teño que debuxar?,images/scales_slideSwitch.png,10:1,1:10,20:1,1:20,debuxo
+Este parafuso mide 12 cm e o seu debuxo mide 6 cm. A que escala está debuxado?,images/scales_boltBlueprint.png,1:2,2:1,4:1,1:4,debuxo
+A engrenaxe real mide 9 mm e quero debuxala nun folio A4 (mide 21 cm de ancho). Cal sería a escala máis apropiada?,images/scales_gearPicture.jpg,20:1,1:2,2:1,1:20,debuxo
+A engrenaxe real mide 36 cm e quero debuxala nun folio A4 (mide 21 cm de ancho). Cal sería a escala máis apropiada?,images/scales_gearPicture.jpg,1:2,1:20,2:1,20:1,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado01.png,B,A,C,D,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado02.png,A,B,C,D,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado03.png,D,A,B,C,debuxo
