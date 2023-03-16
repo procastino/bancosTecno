@@ -8,12 +8,14 @@ Cando dicimos que se dá comezo ao uso da electricidade de xeito comercial?,,"A 
 "A experimentación científica coa electricidade comezou, aproximadamente...",,No século XVIII,No século XIX,A principios do século XX,No século XVII,electricidade
 "Que feito histórico coincidiu no tempo, aproximadamente, co comezo da experimentación científica coa electricidade?",,A Revolución Francesa,O Descubrimento de América,A chegada do home á Lúa,A fundación do Imperio Romano,electricidade
 Cal non pertence á época da revolución científica?,,Edison,Galvani,Volta,Faraday,electricidade
+Cal pertence á época da revolución científica?,,Galvani,Tesla,Edison,Shockley,electricidade
 Con que descubrimento dicimos que comezou o uso da electricidade de xeito comercial,,A lámpada eléctrica,A pila de Volta,O ámbar frotado contra algún tecido,O transistor,electricidade
 A implantación e desenvolvemento comercial da electricidade comezou coa lámpada eléctrica...,,A finais do século XIX,A comezos do século XX,A mediados do século XX,A comezos do século XIX,electricidade
 "A era da información e a comunicación tamén se desenvolve sobre a electricidade, e o compoñente fundamental sobre o que se asenta é...",,O transistor,A lámpada eléctrica,O electroimán,O relé,electricidade
 "As computadoras, móbiles e demáis dispositivos electrónicos son posibles grazas ao transistor, que se inventou...",,A mediados do século XX,A comezos do século XX,A finais do século XIX,A finais do século XX,electricidade
 Cando está cargado un corpo?,,cando ten máis cargas dun signo que doutro,cando ten igual número de cargas positivas e negativas,cando ten máis cargas positivas que negativas,cando ten máis cargas negativas que positivas,electricidade
 Cando dicimos que un corpo está cargado?,,"Cando ten máis electróns que protóns, ou ao revés",Cando ten todas as cargas,Cando ten máis cargas de signo positivo que de signo negativo,Cando ten máis cargas de signo negativo que de signo positivo,electricidade
+Un Coulomb é a unidade de...,,Carga eléctrica,Corrente eléctrica,Intensidade eléctrica,Electricidade,electricidade
 Cal é a unidade de carga eléctrica?,,O Coulomb,O Vatio,O Joule,O Amperio,electricidade
 A canto equivale a unidade de carga?,,"6,2 x 10e18 electróns","6,2 x 10e12 electróns","6,2 x 10e6 electróns","6,2 x 10e3 electróns",electricidade
 Que partículas do átomo están cargadas?,,"os electróns, negativamente, e os protóns, positivamente","os electróns, negativamente, e os neutróns, positivamente","os protóns, positivamente, e os neutróns, negativamente","os electróns, positivamente, e os protóns, negativamente",electricidade
@@ -26,13 +28,15 @@ Cal destes é un material illante?,,O plástico,A auga con sal,O aluminio,O graf
 Un material illante presentará,,Unha resistencia moi alta,Unha resistencia moi baixa,Unha conductividade moi baixa,Unha corrente moi alta,electricidade
 Un material condutor presentará,,Unha resistencia moi baixa,Unha resistencia moi alta,Unha conductividade moi baixa,Unha corrente moi alta,electricidade
 Un material condutor presentará..,,Unha resistencia moi baixa,Unha resistencia moi alta,Unha oposición alta ao paso da corrente,Unha mala condutividade,electricidade
+"Os materiais que poden ser condutores ou non dependendo das circunstancias, chámanse...",,Semicondutores,Semi-illantes,Hemicondutores,Neutrais,electricidade
 Que fenómeno dicimos que é outra expresión da electricidade?,,O magnetismo,A calor,A luz,O movemento,electricidade
 Cal dos seguintes dispositivos eléctricos NON produce ningún movemento?,,Un LED,Un motor,Un altofalante,Un actuador liñal,electricidade
+Cal dos seguintes é unha maneira de producir luz con electricidade?,,Fluorescencia,Luminiscencia,Electromagnetismo,Vibración,electricidade
 Un motor eléctrico polo que pasa unha corrente produce... ,,Movemento e calor.,Movemento.,Calor.,Electromagnetismo.,electricidade
 Os efectos da corrente eléctrica que nomeamos son:,,"Luz, calor, movemento e son.","Electromagnetismo, luz, calor e movemento.","Electroluminiscencia, calor, movemento e son.","Enerxía, movemento, calor e son",electricidade
 "Sempre que hai unha corrente eléctrica, prodúcese...",,Calor,Resistencia eléctrica,Voltaxe,Carga eléctrica,electricidade
-Con que tipo de corrente se corresponde este gráfico?,images/electricity_graficoCA.png,Corrente Alterna,Corrente Continua,Corrente Eléctrica,Calquera outras respostas,electricidade
-Con que tipo de corrente se corresponde este gráfico?,images/electricity_graficoCC.png,Corrente Continua,Corrente Alterna,Corrente Eléctrica,Calquera outras respostas,electricidade
+Con que tipo de corrente se corresponde este gráfico?,images/electricity_graficoCA.png,Corrente Alterna,Corrente Continua,Corrente Eléctrica,Calquera das outras respostas,electricidade
+Con que tipo de corrente se corresponde este gráfico?,images/electricity_graficoCC.png,Corrente Continua,Corrente Alterna,Corrente Eléctrica,Calquera das outras respostas,electricidade
 Cal non se corresponde coa corrente continua?,,adoitamos manexar grandes voltaxes con ela,Sempre ten o mesmo sentido,é a que proporcionan as baterías e pilas,podemos obtela de adaptadores de rede,electricidade
 Cal NON se corresponde coa corrente alterna?,,É a que nos dan as pilas e baterías,Cambia continuamente de sentido,"É a que vén da rede, é dicir, dos enchufes",Adoitamos manexar voltaxes maiores que coa corrente continua,electricidade
 Que aparato funciona con Corrente Alterna?,,Lavadora,Ordenador,Reloxio dixital,Teléfono móbil,electricidade
@@ -74,10 +78,11 @@ Cal delas NON corresponde a un circuíto eléctrico?,,Se produce sempre que hai 
 Cales son os tipos de elementos que podo atopar nun circuíto eléctrico?,,"Xeradores, condutores, receptores e elementos de control","Xeradores, condutores, aparatos eléctricos e elementos de control","Xeradores, cables, interruptores e conmutadores","Pilas, cables, resistencias e interruptores",circuítos
 "Se xuntamos dúas pilas de 1,5V deste xeito... cal será a voltaxe total?",images/duasPilasSerie.png,3V,"1,5V","0,75V","1,33V",circuítos
 Se xuntamos dúas resistencias de 4Ω deste xeito... cal será a súa resistencia equivalente?,images/2ResisParalelo.png,2Ω,4Ω,8Ω,3Ω,circuítos
-Como se chaman os elementos dun circuíto que fornecen os electróns?,,Xeradores,Receptores,Condutores,Elementos de control,circuítos
-Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?,,Receptores,Xeradores,Transformadores,Elementos de control,circuítos
-Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?,,Condutores,Xeradores,Elementos de control,Receptores,circuítos
+"Como se chaman os elementos dun circuíto que ""dán"" os electróns?",,Xeradores,Receptores,Condutores,Elementos de control,circuítos
+Como se chaman os elementos dun circuíto que toman electricidade para producir un efecto?,,Receptores,Xeradores,Transformadores,Elementos de control,circuítos
+Como se chaman os elementos dun circuíto que conectan e permiten o paso da corrente entre un compoñente e outro?,,Condutores,Xeradores,Elementos de control,Receptores,circuítos
 Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?,,Elementos de control,Xeradores,Condutores,Receptores,circuítos
+Un interruptor sería un compoñente dun circuíto de tipo...,,Elemento de control,Condutor,Xerador,Receptor,circuítos
 Cal non é un xerador?,,Motor,Pila,Batería,Toma de rede,circuítos
 "Cal consideramos un compoñente de tipo ""condutor""?",,Cable,Interruptor,Pulsador,Aluminio,circuítos
 Cal non sería un receptor?,,Pila,Motor,Lámpada,Resistencia,circuítos
@@ -100,13 +105,17 @@ Como están conectadas as resistencias da figura?,images/3ResisParalelo.png,Para
 Como están conectadas as resistencias da figura?,images/3ResisMixto.png,Mixto,Paralelo,Serie,composto,circuítos
 Cal será a voltaxe total das tres pilas?,images/3PilasSerie.png,6V,2V,2/3V,8V,circuítos
 Cal será a voltaxe total das tres pilas?,images/3PilasParalelo.png,2V,6V,2/3V,8V,circuítos
+Cal será o valor da resistencia equivalente?,images/circuits_3resSeries435.png,12Ω,4Ω,5/6Ω,6/5Ω,circuitos
 Cal será o valor da resistencia equivalente?,images/3ResisSerie223.png,7Ω,12Ω,6/8Ω,8/6Ω,circuítos
+Cal será o valor da resistencia equivalente?,images/circuits_2ResisParalelo44.png,2Ω,4Ω,8Ω,1Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/3ResisParalelo666.png,2Ω,18Ω,"0,5Ω",3/6Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/3ResisParalelo422.png,4/5Ω,5/4Ω,3/8Ω,8/3Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/2ResisParalelo36.png,2Ω,"0,5Ω",9Ω,3Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/3ResisMixto422.png,5Ω,8Ω,4Ω,6Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/3ResisMixto436.png,6Ω,13Ω,"4,5Ω",3Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/4ResisMixto4466.png,5Ω,20Ω,"1,2Ω",10Ω,circuítos
+Cal será o valor da resistencia equivalente?,images/circuits_findEqMix7Res2263442.png,4Ω,20Ω,20/7Ω,1Ω,circuítos
+Cal podería ser o valor da resistencia equivalente?,images/circuits_findEqParal_2Res84.png,"2,67Ω",8Ω,4Ω,12Ω,circuítos
 Que diferencias de funcionamento haberá entre o circuíto 1 e 2?,images/2circSimples.png,Ningunha,"No circuíto 2, o led acende aínda que non cerremos o interruptor","Os dous leds acenden ao premer o interruptor, pero o 2 un chisco antes","Os dous leds acenden ao premer o interruptor, pero o 1 un chisco antes",circuítos
 "Cal é falsa, para o circuíto da figura?",images/2receptoresSerie.png,O led -a- acenderá un chisco antes que o -b-,A intensidade que circula polos dous leds é a mesma,Os dous leds acenderán ao premer o interruptor,"Se o led -b- se queima, o -a- deixará de funcionar",circuítos
 "Cal é falsa, para o circuíto da figura?",images/2resisSerie.png,As dúas resistencias están sometidas á mesma voltaxe,"Se o interruptor pecha, pasará intensidade polas dúas resistencias",Polas dúas resistencias pasará sempre a mesma intensidade,Se desconecto a resistencia -b- non pasará corrente polo circuíto,circuítos
@@ -114,6 +123,8 @@ Que diferencias de funcionamento haberá entre o circuíto 1 e 2?,images/2circSi
 Que será certo para a intensidade que pasa pola resistencia -a-?,images/2resisParalelo.png,Pasará o doble de intensidade que pola resistencia -b-,Pasará a mesma intensidade que pola resitencia -b-,Pasará a metade de intensidade que pola resistencia -b-,Por ela pasará a metade da intensidade total do circuíto,circuítos
 Por cal resistencia pasará máis intensidade?,images/3resisParalelo.png,Pola -a-,Pola -b-,Pola -c-,Por todas pasará a mesma,circuítos
 Que pasará neste circuíto se conecto a resistencia -c- ?,images/3resisParaleloQue.png,A intensidade total aumentará respecto a cando había dúas,A voltaxe á que están sometidas ás resistencias disminuirá respecto a cando había dúas,A voltaxe á que están sometidas ás resistencias aumentará respecto a cando había dúas,A intensidade total disminuirá respecto a cando había dúas,circuítos
+Cal é certa no circuíto?,images/circuits_1sw2ledsParalel.png,"Se desconecto calquera LED, o outro poderá recibir corrente.","Se desconecto D1, D2 non poderá recibir corrente.","Se desconecto D2, D1 non poderá recibir corrente.",Os dous leds están en serie,circuítos
+Que pasará se premo S1?,images/circuits_1LED1switch_Tricky.png,O LED prenderá,O LED non prenderá,"O LED prenderá, pero tardará algo de tempo","O LED estará prendido, estea como estea S1",circuítos
 "Cal é falsa, para o circuíto da figura?",images/2IntSerie.png,"Se cerramos un ou outro interruptor, pasará corrente pola resistencia","Se cerramos un e outro interruptor, pasará corrente pola resistencia","Se cerramos os dous interruptores, pasará corrente pola resistencia",Só pasará corrente pola resistencia se cerramos todos os interruptores,circuítos
 "Cal é falsa, para o circuíto da figura?",images/circuits_2swSeries02.png,Os dous leds están en serie,Os dous pulsadores están en serie,Os leds acenderán ao premer os dous pulsadores,Non podo acender D2 sen acender D1,circuítos
 "Cal é falsa, para o circuíto da figura?",images/circuits_2swParallelLed.png,Non podo acender D2 sen acender D1,"Para acender D1, premo P1","Para acender D2, premo P2.",Os dous leds están en paralelo,circuítos
@@ -135,10 +146,16 @@ Cando acenderá o led verde?,images/brBoard2PulsXeralSecundario.png,Se teño pre
 Cal é falsa para o circuíto da figura?,images/brBoard2PulsXeralSecundario.png,Podo acender o led verde sen que acenda o led vermello,Para acender o led verde teño que ter premido o pulsador da esquerda,Para acender o led verde teño que ter premido o pulsador da dereita,O led vermello acende cando premo o pulsador da dereita,circuítos
 A que esquema se corresponde o circuíto da breadboard?,images/brBoard2PulsXeralSecEsquemas.png,Ao rosa,Ao azul,Ao verde,Ao laranxa,circuítos
 "Cal será certa, para o circuíto da figura?",images/2IntResisLedCorto.png,O led acenderá se unicamente está pechado  -a-,O led non acenderá cando  -b- estea aberto,O led acenderá cando prema os dous interruptores,"O led acenderá ao premer -a-, estea como estea -b-",circuítos
+Que pasará se premo P1?,images/circuits_2sw2led_short.png,Acenderán os dous leds,Non acenderá ningún,Acenderá só D1,Acenderá só D2,circuítos
+Que pasará se premo P1 e P2?,images/circuits_2sw2led_short.png,Acenderá só D2,Non acenderá ningún,Acenderá só D2,Acenderán os dous leds,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_001.png,Ningún,Todos,O A e o B,Só acenderá o C,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_002.png,O A e o B,Todos,Ningún,Só acenderá o C,circuítos
 Que leds acenderán?,images/6ledAcenden.png,"O 2,3,4 e 6",O 1 e o 5,Ningún,O 3 e o 4,circuítos
 Que leds acenderán?,images/2CircLedAcenden.png,O 1 e o 3,"O 1, 3, 4 e 6",Ningún,Todos,circuítos
 Que leds acenderán?,images/3LedsCortoAcenden.png,Ningún,O 3,O 2 e o 3,Todos,circuítos
 Que leds acenderán?,images/4LedsCortoAcenden.png,O 4,Todos,"O 1, 3 e 4",Ningún,circuítos
+Que leds acenderán?,images/circuits_currentInLeds009.png,Ningún,Todos,Todos menos o C,Só o C,circuítos
+Que leds acenderán?,images/circuits_currentInLeds_010.png,"A, B e E",Todos,Ningún,Todos menos o D,circuítos
 Quero que o led acenda cando premo o pulsador. Hai algún fallo?,images/brbrUnLedPulsadorTricky.png,Os cables non están nos terminais correctos do pulsador,O led está posto do revés,A resistencia non está conectada ao led,"Non hai fallos, vai acender",circuítos
 Quero que o led acenda só cando premo os dous pulsadores. Hai algún fallo?,images/brbr2pulsadoresSerieTricky.png,Ningún,O led acenderá cando prema calquera dos interruptores,O cable verde non conecta os terminais correctos dos interruptores,A resistencia non está conectada no terminal correcto do pulsador,circuítos
 Que cable teño que quitar para que o led acenda desde calquera dos dous pulsadores?,images/2pulsParaleloQuitaCable.png,O laranxa,O verde,O azul,O amarelo,circuítos

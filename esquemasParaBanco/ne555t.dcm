@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICM7555xP_copy
+D CMOS General Purpose Timer, 555 compatible, PDIP-8
+K single timer 555
+F http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf
+$ENDCMP
+#
+$CMP LM555xN_copy
+D Timer, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/lm555.pdf
+$ENDCMP
+#
+$CMP LMC555xN_copy
+D CMOS Timer, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/lmc555.pdf
+$ENDCMP
+#
+$CMP MC1455P_copy
+D Timer, 555 compatible, PDIP-8
+K single timer 555
+F https://www.onsemi.com/pub/Collateral/MC1455-D.PDF
+$ENDCMP
+#
+$CMP NA555P_copy
+D Precision Timers, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NE555T
+D Precision Timers, 555 compatible,  PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SA555P_copy
+D Precision Timers, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SE555P_copy
+D Precision Timers, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555xP_copy
+D Single LinCMOS Timer, 555 compatible, PDIP-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+#End Doc Library
