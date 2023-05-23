@@ -115,6 +115,7 @@ Cal será o valor da resistencia equivalente?,images/3ResisMixto422.png,5Ω,8Ω,
 Cal será o valor da resistencia equivalente?,images/3ResisMixto436.png,6Ω,13Ω,"4,5Ω",3Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/4ResisMixto4466.png,5Ω,20Ω,"1,2Ω",10Ω,circuítos
 Cal será o valor da resistencia equivalente?,images/circuits_findEqMix7Res2263442.png,4Ω,20Ω,20/7Ω,1Ω,circuítos
+Cal será o valor da resistencia equivalente?,images/circuits_FindEqMix_4Res4463.png,4Ω,17Ω,1Ω,"4,25Ω",circuítos
 Cal podería ser o valor da resistencia equivalente?,images/circuits_findEqParal_2Res84.png,"2,67Ω",8Ω,4Ω,12Ω,circuítos
 Que diferencias de funcionamento haberá entre o circuíto 1 e 2?,images/2circSimples.png,Ningunha,"No circuíto 2, o led acende aínda que non cerremos o interruptor","Os dous leds acenden ao premer o interruptor, pero o 2 un chisco antes","Os dous leds acenden ao premer o interruptor, pero o 1 un chisco antes",circuítos
 "Cal é falsa, para o circuíto da figura?",images/2receptoresSerie.png,O led -a- acenderá un chisco antes que o -b-,A intensidade que circula polos dous leds é a mesma,Os dous leds acenderán ao premer o interruptor,"Se o led -b- se queima, o -a- deixará de funcionar",circuítos
@@ -125,6 +126,7 @@ Por cal resistencia pasará máis intensidade?,images/3resisParalelo.png,Pola -a
 Que pasará neste circuíto se conecto a resistencia -c- ?,images/3resisParaleloQue.png,A intensidade total aumentará respecto a cando había dúas,A voltaxe á que están sometidas ás resistencias disminuirá respecto a cando había dúas,A voltaxe á que están sometidas ás resistencias aumentará respecto a cando había dúas,A intensidade total disminuirá respecto a cando había dúas,circuítos
 Cal é certa no circuíto?,images/circuits_1sw2ledsParalel.png,"Se desconecto calquera LED, o outro poderá recibir corrente.","Se desconecto D1, D2 non poderá recibir corrente.","Se desconecto D2, D1 non poderá recibir corrente.",Os dous leds están en serie,circuítos
 Que pasará se premo S1?,images/circuits_1LED1switch_Tricky.png,O LED prenderá,O LED non prenderá,"O LED prenderá, pero tardará algo de tempo","O LED estará prendido, estea como estea S1",circuítos
+Que teño que facer para que pase corrente por D1?,images/circuits_2switchParallel.png,Premer S1 ou S2,Premer S1,Premer S2,Premer S1 e S2,circuítos
 "Cal é falsa, para o circuíto da figura?",images/2IntSerie.png,"Se cerramos un ou outro interruptor, pasará corrente pola resistencia","Se cerramos un e outro interruptor, pasará corrente pola resistencia","Se cerramos os dous interruptores, pasará corrente pola resistencia",Só pasará corrente pola resistencia se cerramos todos os interruptores,circuítos
 "Cal é falsa, para o circuíto da figura?",images/circuits_2swSeries02.png,Os dous leds están en serie,Os dous pulsadores están en serie,Os leds acenderán ao premer os dous pulsadores,Non podo acender D2 sen acender D1,circuítos
 "Cal é falsa, para o circuíto da figura?",images/circuits_2swParallelLed.png,Non podo acender D2 sen acender D1,"Para acender D1, premo P1","Para acender D2, premo P2.",Os dous leds están en paralelo,circuítos
@@ -133,6 +135,7 @@ Que pasará se premo S1?,images/circuits_1LED1switch_Tricky.png,O LED prenderá,
 "Cal é falsa, para o circuíto da figura?",images/circuits_2swBranches.png,Podo acender D2 sen acender D1,Podo acender D1 sen acender D2,Podo acender D2 e D1 á vez,Os leds están en paralelo.,circuítos
 "Cal é certa, para o circuíto da figura?",images/circuits_2swSeries.png,Para acender os leds teño que premer os dous pulsadores.,Para acender os leds polo premer calquera dos pulsadores,Para acender os leds teño que premer P1,Para acender os leds teño que premer P2,circuítos
 Para que poderías empregar o circuíto da figura?,images/2IntSerieMotor.png,Unha motoserra que actúa só cando premo dous interruptores,Un ventilador que se acende desde dous puntos distintos,Unha alarma que se acende desde calquera dos dous interruptores,Un taladro que pode ser accionado cun interruptor ou con outro,circuítos
+"Cal é falsa, para o circuíto da figura?",images/circuits_2sw2leds1short.png,"Se premo os dous interruptores, acende D2","Se premo P1 e P2, D1 acende","Sempre que premo P1, D1 acende.","Se premo só P2, non acende nada.",
 "Cal é falsa, para o circuíto da figura?",images/2IntParalelo.png,A corrente pasará cando cerremos os dous interruptores,"Se cerramos un ou outro interruptor, pasará corrente pola resistencia","Para que pase a corrente, podemos cerrar calquera dos dous interruptores",A corrente pasa sempre que haxa polo menos un interruptor cerrado,circuítos
 "Cal é falsa, para o circuíto da figura?",images/ledCurtocircuito.png,O led -a- acenderá,O led -a- está curtocircuitado,A intensidade non pasará polo led -a- porque ten un camiño alternativo sen resistencia,O led -b- acenderá,circuítos
 Cal é certa para o circuíto da figura?,images/2IntSerieTricky.png,Só pasará corrente pola resistencia con 1 e 2 cerrados,Se cerro o interruptor 1 pasará corrente pola resistencia,Se cerro o interruptor 2 pasará corrente pola resistencia,"Se cerro calquera dos dous interruptores, pasará corrente",circuítos
@@ -147,9 +150,14 @@ Cal é falsa para o circuíto da figura?,images/brBoard2PulsXeralSecundario.png,
 A que esquema se corresponde o circuíto da breadboard?,images/brBoard2PulsXeralSecEsquemas.png,Ao rosa,Ao azul,Ao verde,Ao laranxa,circuítos
 "Cal será certa, para o circuíto da figura?",images/2IntResisLedCorto.png,O led acenderá se unicamente está pechado  -a-,O led non acenderá cando  -b- estea aberto,O led acenderá cando prema os dous interruptores,"O led acenderá ao premer -a-, estea como estea -b-",circuítos
 Que pasará se premo P1?,images/circuits_2sw2led_short.png,Acenderán os dous leds,Non acenderá ningún,Acenderá só D1,Acenderá só D2,circuítos
-Que pasará se premo P1 e P2?,images/circuits_2sw2led_short.png,Acenderá só D2,Non acenderá ningún,Acenderá só D2,Acenderán os dous leds,circuítos
+Que pasará se premo P1 e P2?,images/circuits_2sw2led_short.png,Acenderá só D2,Non acenderá ningún,Acenderá só D1,Acenderán os dous leds,circuítos
 Que leds acenderían?,images/circuits_currentInLeds_001.png,Ningún,Todos,O A e o B,Só acenderá o C,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_003.png,Ningún,Todos,A e C,Só acenderá A,circuítos
 Que leds acenderían?,images/circuits_currentInLeds_002.png,O A e o B,Todos,Ningún,Só acenderá o C,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_006.png,O A,O A e o C,Ningún,O B,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_007.png,O B,Os dous,Ningún,O A,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_008.png,O B,O A e o B,Ningún,O B e o C,circuítos
+Que leds acenderían?,images/circuits_currentInLeds_011.png,Ningún,O B,O A e o B,O C e o D,circuítos
 Que leds acenderán?,images/6ledAcenden.png,"O 2,3,4 e 6",O 1 e o 5,Ningún,O 3 e o 4,circuítos
 Que leds acenderán?,images/2CircLedAcenden.png,O 1 e o 3,"O 1, 3, 4 e 6",Ningún,Todos,circuítos
 Que leds acenderán?,images/3LedsCortoAcenden.png,Ningún,O 3,O 2 e o 3,Todos,circuítos
@@ -165,6 +173,9 @@ Por que circuíto circulará máis corrente?,images/leiOhmSameVoltDecimalOhm.png
 Por que circuíto circulará máis corrente?,images/leiOhmSameVoltKohm.png,Polo 2,Polo 1,Polo 3,Polo 4,circuítos
 Por que circuíto circulará máis corrente?,images/leiOhmDifVoltDifRes.png,Polo 4,Polo 1,Polo 2,Polo 3,circuítos
 Por que resistencia circulará máis intensidade?,images/3ResisSerie246.png,Por todas pasa a mesma,Pola -b-,Pola -c-,Pola -a-,circuítos
+Cal será a maior intensidade?,images/circuits_findCurrentMixed3.png,I1,I2,I3,Por todas a mesma,circuítos
+Cal será a menor intensidade?,images/circuits_findCurrentMixed3.png,I3,I1,I2,Por todas a mesma,circuítos
+Que pasará se cerramos P?,images/circuits_parallelResisIncreaseCurrent.png,A intensidade total do circuito aumentará,A intensidade total do circuito disminuirá,A intensidade total do circuíto non se verá afectada,A voltaxe total do circuíto diminuirá,circuítos
 Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?,images/2ResisParaleloTricky44.png,A intensidade total do circuíto aumentará,A voltaxe á que está sometida -a- disminuirá,A intensidade total do circuíto disminuirá,A intensidade total do circuíto non variará,circuítos
 Partimos do circuíto negro. Que pasará cando conectemos a resistencia en verde?,images/2ResisParaleloTricky44.png,Por -b- pasará a mesma intensidade que por -a-,A voltaxe de -a- será a metade que antes,A resistencia equivalente no circuíto será de 4Ω,A intensidade total do circuíto non variará,circuítos
 "Partimos do circuíto negro. Se conectamos a parte en verde, cal será falsa?",images/2ResisParaleloTricky44.png,A intensidade total disminuirá,Por -b- pasará unha itensidade igual á que pasa por -a-,A voltaxe de -b- será a mesma que a de -a-,A intensidade que pasa por -a- non variará,circuítos
@@ -410,7 +421,7 @@ Cal non se corresponde necesariamente cun robot?,,Ten que ter olliños,Ten que s
 Como se chaman os compoñentes que detectan o estado do entorno no que se atopa o robot?,,Sensores,Controladores,Drivers,Detectores,robótica
 Como se chama o compoñente programable do robot?,,Microcontrolador,Memoria,Software,Arduino,robótica
 "Cal é a ""marca"" de microcontrolador que imos empregar?",,Arduino,Intel,AMD,Python,robótica
-Que é un driver ou controladora de motores?,,Un circuíto que permite manexar motores con sinais de baixa intensidade,Un circuíto que fai que os motores poidan xirar nos dous sentidos,Un circuíto que mellora a precisión e velocidade dos motores.,Un circuíto que leva os programas específicos para o control dos motores,robótica
+Que é un driver ou controladora de motores?,,Un circuíto que permite manexar motores con sinais de baixa intensidade,Un circuíto sen o que os motores non poden xirar en dous sentidos,Un circuíto que mellora a precisión e velocidade dos motores.,Un circuíto que leva os programas específicos para o control dos motores,robótica
 Que significan as iniciais MCU?,,Unidade de Micro Controlador,Unidade de Macro Controlador,Micro Controladora Unificada,Micro Controlador Universal,robótica
 Cal é falsa?,,As saídas dixitais poden ter calquera valor entre 0 e 1023,Os pines dixitais poden ser entradas,Os pines dixitais poden ser saídas,"O modo de funcionamento dun pin dixital se establece con ""pinMode""",robótica
 Cal é certa?,,O MCU non pode manexar intensidades altas de corrente,O driver de motores envía ordes á MCU,O MCU se conecta directamente aos motores,Os motores funcionan con intensidades de corrente baixas,robótica
@@ -459,3 +470,21 @@ Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vis
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado10.png,1,2,3,4,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado11.png,3,1,2,4,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado12.png,4,1,2,3,debuxo
+As partes dun obxecto que permiten que este non se deforme ou rompa se chaman... ,,estrutura,esquelete,armazón,resistencias,estruturas
+As forzas que actúan sobre un obxecto se chaman...,,esforzos,forzas,reforzos,pesos,estruturas
+O esforzo que tende a alonxar os extremos dunha peza se chama...,,tracción,compresión,flexión,estiramento,
+O esforzo que tende a achegar os extremos dunha peza se chama...,,compresión,tracción,apretamento,comprensión,
+O esforzo que tende a curvar unha peza se chama...,,flexión,dobraxe,curvamento,pandeamento,
+O esforzo que tende a xirar os extremos dunha peza en sentidos contrarios é...,,Torsión,Viramento,Flexión,Forza de xiro,
+Cal é o esforzo máis doado de resistir,,Compresión,Flexión,Torsión,Tracción,
+Para que esforzo son máis axeitados os materiais pétreos?,,Compresión,Flexión,Torsión,Tracción,
+Que forma construtiva se fai para conseguir salvar luces longas con materiais pétreos?,,Os arcos,Os tirantes,As pontes,Os muros,
+Cal é o esforzo para o que podemos empregar tirantes ou cordas?,,Tracción,Torsión,Compresión,Flexión,
+Que material construtivo permitiu comezar a crear estruturas que resistían grandes esforzos de flexión?,,O aceiro,A pedra,Os tirantes,O ladrillo,
+De que está constituído o formigón armado?,,De formigón e barras de aceiro,De cemento e grava,De formigón nunha armadura especial,De formigón de fibra de carbono,
+Por que atopamos tantos triángulos nas estruturas?,,Porque o triángulo é unha figura indeformable,Porque os triángulos son irrompibles,Porque os triángulos melloran as propiedades dos materiais de construción,Porque é máis barato construír con triángulos,
+A que esforzo estaría sometida a peza 1?,images/structures_effortsExample.png,Compresión,Flexión,Torsión,Tracción,
+A que esforzo estaría sometida a peza 2?,images/structures_effortsExample.png,Tracción,Flexión,Compresión,Torsión,
+A que esforzo estaría sometida a peza 3?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,
+A que esforzo estaría sometida a peza 4?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,
+A que esforzo estaría sometida a peza 5?,images/structures_effortsExample.png,Tracción,Flexión,Torsión,Compresión,
