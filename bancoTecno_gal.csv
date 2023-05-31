@@ -471,20 +471,37 @@ Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vis
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado11.png,3,1,2,4,debuxo
 Cal cres que sería a vista correcta desde onde indica a frecha?,images/draw_vistasAlzado12.png,4,1,2,3,debuxo
 As partes dun obxecto que permiten que este non se deforme ou rompa se chaman... ,,estrutura,esquelete,armazón,resistencias,estruturas
+Unha estrutura son as partes dun obxecto que...,,fan que o obxecto non se deforme,teñen unha función técnica,"todas as partes dun obxecto son, dunha ou outra maneira, estruturales.",resisten o peso do obxecto,estruturas
 As forzas que actúan sobre un obxecto se chaman...,,esforzos,forzas,reforzos,pesos,estruturas
-O esforzo que tende a alonxar os extremos dunha peza se chama...,,tracción,compresión,flexión,estiramento,
-O esforzo que tende a achegar os extremos dunha peza se chama...,,compresión,tracción,apretamento,comprensión,
-O esforzo que tende a curvar unha peza se chama...,,flexión,dobraxe,curvamento,pandeamento,
-O esforzo que tende a xirar os extremos dunha peza en sentidos contrarios é...,,Torsión,Viramento,Flexión,Forza de xiro,
-Cal é o esforzo máis doado de resistir,,Compresión,Flexión,Torsión,Tracción,
-Para que esforzo son máis axeitados os materiais pétreos?,,Compresión,Flexión,Torsión,Tracción,
-Que forma construtiva se fai para conseguir salvar luces longas con materiais pétreos?,,Os arcos,Os tirantes,As pontes,Os muros,
-Cal é o esforzo para o que podemos empregar tirantes ou cordas?,,Tracción,Torsión,Compresión,Flexión,
-Que material construtivo permitiu comezar a crear estruturas que resistían grandes esforzos de flexión?,,O aceiro,A pedra,Os tirantes,O ladrillo,
-De que está constituído o formigón armado?,,De formigón e barras de aceiro,De cemento e grava,De formigón nunha armadura especial,De formigón de fibra de carbono,
-Por que atopamos tantos triángulos nas estruturas?,,Porque o triángulo é unha figura indeformable,Porque os triángulos son irrompibles,Porque os triángulos melloran as propiedades dos materiais de construción,Porque é máis barato construír con triángulos,
-A que esforzo estaría sometida a peza 1?,images/structures_effortsExample.png,Compresión,Flexión,Torsión,Tracción,
-A que esforzo estaría sometida a peza 2?,images/structures_effortsExample.png,Tracción,Flexión,Compresión,Torsión,
-A que esforzo estaría sometida a peza 3?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,
-A que esforzo estaría sometida a peza 4?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,
-A que esforzo estaría sometida a peza 5?,images/structures_effortsExample.png,Tracción,Flexión,Torsión,Compresión,
+"Un obxecto na superficie terrestre sempre estará sometido, como mínimo, á forza",,da gravidade,da súa masa,do seu volume,pode non estar sometido a ningunha forza,estruturas
+O esforzo que tende a alonxar os extremos dunha peza se chama...,,tracción,compresión,flexión,estiramento,estruturas
+O esforzo que tende a achegar os extremos dunha peza se chama...,,compresión,tracción,apretamento,comprensión,estruturas
+O esforzo que tende a curvar unha peza se chama...,,flexión,dobraxe,curvamento,pandeamento,estruturas
+O esforzo que tende a xirar os extremos dunha peza en sentidos contrarios é...,,Torsión,Viramento,Flexión,Forza de xiro,estruturas
+O esforzo de tracción tende a...,,afastar os extremos dunha peza,achegar os extremos dunha peza,curvar unha peza,xirar os extremos en sentidos contrarios,estruturas
+O esforzo de compresión tende a...,,achegar os extremos dunha peza,curvar unha peza,xirar os extremos en sentidos contrarios,afastar os extremos dunha peza,estruturas
+O esforzo de flexión tende a...,,curvar unha peza,achegar os extremos dunha peza,xirar os extremos en sentidos contrarios,afastar os extremos dunha peza,estruturas
+O esforzo de torsión tende a...,,xirar os extremos en sentidos contrarios,achegar os extremos dunha peza,curvar unha peza,afastar os extremos dunha peza,estruturas
+Cal é o esforzo máis doado de resistir,,Compresión,Flexión,Torsión,Tracción,estruturas
+Dicimos que a flexión é un esforzo combinado polos esforzos de...,,Tracción e compresión,Tracción e Torsión,Compresión e Torsión,Compresión e peso,estruturas
+Para que esforzo son máis axeitados os materiais pétreos?,,Compresión,Flexión,Torsión,Tracción,estruturas
+Que forma construtiva se fai para conseguir salvar luces longas con materiais pétreos?,,Os arcos,Os tirantes,As pontes,Os muros,estruturas
+Cal é o esforzo para o que podemos empregar tirantes ou cordas?,,Tracción,Torsión,Compresión,Flexión,estruturas
+"Cal dos seguintes resiste ben un esforzo de tracción, pero non os demáis?",,Tirantes,Columnas,Formigón armado,Vigas de aceiro,estruturas
+Que material construtivo permitiu comezar a crear estruturas que resistían grandes esforzos de flexión?,,O aceiro,A pedra,Os tirantes,O ladrillo,estruturas
+Cal destas construcións foi unha das primeiras exhibicións das posibilidades construtivas do aceiro prefabricado?,,A torre Eiffel,O Burj Khalifa,O Panteón romano,A ponte de Rande,estruturas
+De que está constituído o formigón armado?,,De formigón e barras de aceiro,De cemento e grava,De formigón nunha armadura especial,De formigón de fibra de carbono,estruturas
+A que esforzo estarán sometidos os piares dun edificio?,,Compresión,Flexión,Torsión,Tracción,estruturas
+Por que atopamos tantos triángulos nas estruturas?,,Porque o triángulo é unha figura indeformable,Porque os triángulos son irrompibles,Porque os triángulos melloran as propiedades dos materiais de construción,Porque é máis barato construír con triángulos,estruturas
+A que esforzo estaría sometida a peza 1?,images/structures_effortsExample.png,Compresión,Flexión,Torsión,Tracción,estruturas
+A que esforzo estaría sometida a peza 2?,images/structures_effortsExample.png,Tracción,Flexión,Compresión,Torsión,estruturas
+A que esforzo estaría sometida a peza 3?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,estruturas
+A que esforzo estaría sometida a peza 4?,images/structures_effortsExample.png,Flexión,Compresión,Torsión,Tracción,estruturas
+A que esforzo estaría sometida a peza 5?,images/structures_effortsExample.png,Tracción,Flexión,Torsión,Compresión,estruturas
+A que esforzo estaría sometida a peza 1?,images/structures_effortsExample02.png,Compresión,Flexión,Torsión,Tracción,estruturas
+A que esforzo estaría sometida a peza 2?,images/structures_effortsExample02.png,Tracción,Flexión,Compresión,Torsión,estruturas
+A que esforzo estaría sometida a peza 3?,images/structures_effortsExample02.png,Flexión,Compresión,Torsión,Tracción,estruturas
+Que peza estaría sometida a tracción?,images/structures_effortsExample02.png,A peza 2,A peza 1,A peza 3,Ningunha delas,estruturas
+Que peza estaría sometida a compresión?,images/structures_effortsExample02.png,A peza 1,A peza 2,A peza 3,Ningunha delas,estruturas
+Que peza estaría sometida a flexión?,images/structures_effortsExample02.png,A peza 3,A peza 2,A peza 1,Ningunha delas,estruturas
+Que peza estaría sometida a torsión?,images/structures_effortsExample02.png,Ningunha delas,A peza 3,A peza 2,A peza 1,estruturas
